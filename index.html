@@ -10,5 +10,9 @@
   <body>
     <h1>{{ "Hello World!" | downcase }}</h1>
   </body>
-  {% include navigation.html %}
+  <ul>
+   {% for item in site.data.samplelist.docs %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+  </ul>
 </html>
