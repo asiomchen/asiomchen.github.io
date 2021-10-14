@@ -1,6 +1,6 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'Chadao - Anton o herbacie'
+description: 'O herbacie i nie tylko.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
@@ -20,7 +20,7 @@ plugins:
   
 authors:
     sal:
-      name:           Sal
+      name:           Anton
       site:           https://www.wowthemes.net
       avatar:         /assets/images/avatar1.jpg
       bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
