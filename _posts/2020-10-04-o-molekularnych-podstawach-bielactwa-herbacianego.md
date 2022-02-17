@@ -5,7 +5,8 @@ categories: [Kultywary]
 image: assets/images/demo1.jpg
 ---
 Anji Bai Cha (安吉白茶), biała herbata Anji to nowoczesna odmiana zielonej herbaty z rejonu Anji w prowincji Zhejiang. W latach 70. w pobliżu wsi Dashi odkryto stare drzewo herbaciane o niezwykłym jasnym kolorze młodych pędów. W 1982 r. rozpoczęto prace nad namnażaniem wegetatywnym materiału z tego drzewa, w wyniku tego 1991 r. powstała pierwsza partia herbaty o roboczej nazwie Yu Feng (玉凤) – "Jade Phoenix", która została wysoko oceniona przez ekspertów. Pod koniec 1990 roku zakończono badanie właściwości tej odmiany i opracowanie technologii, a w 2000 r. nowa odmiana została zarejestrowana pod nazwą "Bai Ye Yi Hao "(白叶一号) - "białolistny numer jeden", a gotowy produkt otrzymał nazwę Anji Bai Cha. Od 2004 roku nazwa Anji Bai Cha jest chroniona geograficznie.
-{% include image.html img="assets/images/anji/51162444565_3c8e357712_b.jpg" title="" caption="Anji Bai Cha @camellia-sinensis.com" %}
+
+{% include image.html img="assets/images/anji/51162444565_3c8e357712_b.jpg" title="ABC_1" caption="Anji Bai Cha @camellia-sinensis.com" %}
 
 
 ![Anji Bai Cha 1{caption=Anji Bai Cha @camellia-sinensis.com}](/assets/images/anji/51162444565_3c8e357712_b.jpg)
