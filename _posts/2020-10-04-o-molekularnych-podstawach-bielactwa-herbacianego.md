@@ -9,8 +9,8 @@ Anji Bai Cha (安吉白茶), biała herbata Anji to nowoczesna odmiana zielonej 
 ![Anji Bai Cha 1](/assets/images/anji/51162444565_3c8e357712_b.jpg)
 
 {% include image.html
-    src="anji/51162444565_3c8e357712_b.jpg" <!-- image filename (placed in /assets/images) -->
-    alt="Jekyll's logo" <!-- alt text -->
+    src='anji/51162444565_3c8e357712_b.jpg' <!-- image filename (placed in /assets/images) -->
+    alt='Jekyll's logo' <!-- alt text -->
     caption="This is Jekyll's logo, featuring Dr. Jekyll's serum!" <!-- Caption -->
 %}
 
