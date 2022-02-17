@@ -9,7 +9,7 @@ Anji Bai Cha (安吉白茶), biała herbata Anji to nowoczesna odmiana zielonej 
 
 
 <p align="center">
-  <img alt="img-name" src="/assets/images/anji/51162444565_3c8e357712_b.jpg" width="300">
+  <img alt="img-name" src="/assets/images/anji/51162444565_3c8e357712_b.jpg" width="600">
   <br>
     <em><i>Anji Bai Cha @camelia sinensus.com</i></em>
 </p>
