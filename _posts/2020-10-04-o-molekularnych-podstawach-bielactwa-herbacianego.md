@@ -6,18 +6,12 @@ image: assets/images/demo1.jpg
 ---
 Anji Bai Cha (安吉白茶), biała herbata Anji to nowoczesna odmiana zielonej herbaty z rejonu Anji w prowincji Zhejiang. W latach 70. w pobliżu wsi Dashi odkryto stare drzewo herbaciane o niezwykłym jasnym kolorze młodych pędów. W 1982 r. rozpoczęto prace nad namnażaniem wegetatywnym materiału z tego drzewa, w wyniku tego 1991 r. powstała pierwsza partia herbaty o roboczej nazwie Yu Feng (玉凤) – "Jade Phoenix", która została wysoko oceniona przez ekspertów. Pod koniec 1990 roku zakończono badanie właściwości tej odmiany i opracowanie technologii, a w 2000 r. nowa odmiana została zarejestrowana pod nazwą "Bai Ye Yi Hao "(白叶一号) - "białolistny numer jeden", a gotowy produkt otrzymał nazwę Anji Bai Cha. Od 2004 roku nazwa Anji Bai Cha jest chroniona geograficznie.
 
-![Anji Bai Cha 1](/assets/images/anji/51162444565_3c8e357712_b.jpg)
 
-{% include image.html
-    src='anji/51162444565_3c8e357712_b.jpg' <!-- image filename (placed in /assets/images) -->
-    alt='Jekyll's logo' <!-- alt text -->
-    caption="This is Jekyll's logo, featuring Dr. Jekyll's serum!" <!-- Caption -->
-%}
 
 <p align="center">
   <img alt="img-name" src="/assets/images/anji/51162444565_3c8e357712_b.jpg" width="300">
   <br>
-    <em>Anji Bai Cha</em>
+    <em><i>Anji Bai Cha @camelia sinensus.com</i></em>
 </p>
 
 W ciągu dwudziestu lat produkcja Anji Bai Cha wzrosła wielokrotnie i obecnie wynosi około 2000 ton rocznie. Anji Bai Cha stała się jedną z najbardziej znanych zielonych herbat nie tylko w Zhejiang, ale także w całych Chinach. Oprócz Zhejiang, Bai Ye Yi Hao są uprawiane w Liyang, Changzhou, Jiangsu, Yanhe-tujias w autonomicznym rejonie Tunzhen, w prowincji Guizhou itp. Ceny herbaty z kultywarów o białych liściach i żółtych liściach (Bai Ye Yi Hao - najpopularniejszy z nich, ale nie jedyny) są dość wysokie, a zainteresowanie taką herbatą stale rośnie ,więc w jej produkcji opóźnione regiony widzą możliwość przezwyciężenia ubóstwa.
