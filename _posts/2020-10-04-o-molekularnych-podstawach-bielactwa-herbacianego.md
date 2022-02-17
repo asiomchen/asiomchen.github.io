@@ -14,6 +14,12 @@ Anji Bai Cha (安吉白茶), biała herbata Anji to nowoczesna odmiana zielonej 
     caption="This is Jekyll's logo, featuring Dr. Jekyll's serum!" <!-- Caption -->
 %}
 
+<p align="center">
+  <img alt="img-name" src="/assets/images/anji/51162444565_3c8e357712_b.jpg" width="300">
+  <br>
+    <em>Anji Bai Cha</em>
+</p>
+
 W ciągu dwudziestu lat produkcja Anji Bai Cha wzrosła wielokrotnie i obecnie wynosi około 2000 ton rocznie. Anji Bai Cha stała się jedną z najbardziej znanych zielonych herbat nie tylko w Zhejiang, ale także w całych Chinach. Oprócz Zhejiang, Bai Ye Yi Hao są uprawiane w Liyang, Changzhou, Jiangsu, Yanhe-tujias w autonomicznym rejonie Tunzhen, w prowincji Guizhou itp. Ceny herbaty z kultywarów o białych liściach i żółtych liściach (Bai Ye Yi Hao - najpopularniejszy z nich, ale nie jedyny) są dość wysokie, a zainteresowanie taką herbatą stale rośnie ,więc w jej produkcji opóźnione regiony widzą możliwość przezwyciężenia ubóstwa.
 
 Bai Ye Yi Hao jest termowrażliwym półalbinosem. Pierwsze pąki i liście mają żółto-zielony kolor. Na etapie pąk + liść - pąk + 2 liście w temperaturze poniżej 20°C liście nabierają charakterystycznego "nefrytowego" koloru – jasnozielonego lub jasnożółtego, nie śnieżnobiałego, ale znacznie jaśniejszego niż "normalna" herbata, podczas gdy centralna żyłka liścia i obszary bocznych żyłek blisko niego stają się ciemnozielone, tworząc kontrastowy wzór. Wraz z dalszym rozwojem pędu, a także w temperaturach powyżej 22°C, liście stają się jasnozielone, zwykle w wiosennych pędach herbaty (patrz zdjęcia 5 i 6). W przypadku wysokiej jakości Anji Bai Cha surowce są zbierane na etapie wybielania, więc termin ich zbierania jest krótki – zwykle wynosi około dwóch tygodni od połowy marca do początku kwietnia.
