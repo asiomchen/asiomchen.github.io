@@ -3,7 +3,7 @@ layout: post
 title:  "Herbata GABA: historia, technologia i skuteczność"
 author: 
 categories: [Chemia herbaty]
-image: assets/images/gaba/gaba-0.jpg
+image: assets/images/gaba/gaba-0-alt.png
 tags: [featured]
 ---
 Mówiąc o herbacie od strony chemii byłoby przestępstwem nie wspomnieć o herbatach GABA, które stają się coraz bardziej popularne.
