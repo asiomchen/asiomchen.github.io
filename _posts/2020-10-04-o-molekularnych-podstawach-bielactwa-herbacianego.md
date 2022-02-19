@@ -9,7 +9,7 @@ Anji Bai Cha (安吉白茶), biała herbata Anji to nowoczesna odmiana zielonej 
 
 
 <p align="center">
-  <img alt="img-name" src="/assets/images/anji/anji-1" width="600">
+  <img alt="anji-1" src="/assets/images/anji/anji-1.jpg" width="600">
   <br>
     <em><i>Anji Bai Cha @yunnansourcing.com</i></em>
 </p>
@@ -23,7 +23,7 @@ Herbata z Bai Ye Yi Hao, zebrana na etapie wybielania, ma niezwykły skład chem
 Procesy zachodzące w liściach kultywarów o białych liściach i żółtych liściach podczas etapów wybielania i zielenienia oraz mechanizmy ich regulacji przyciągnęły dużą uwagę naukowców. Skład liści Bai Ye Yi Hao został zbadany na poziomach: transkrypcyjnym (zbiór RNA), proteomicznym (zbiór białek) i metabolomicznym (zbiór metabolitów endogennych o niskiej masie cząsteczkowej) poziomach, na końcu podam linki do odpowiednich badań, a tu chcę się zatrzymać tylko na chwilę żeby pokazać, jak skomplikowaną biochemicznie fabryką jest liść herbaty.
 
 <p align="center">
-  <img alt="img-name" src="/assets/images/anji/anji-2" width="600">
+  <img alt="anji-2" src="assets/images/anji/anji-2.jpg" width="600">
   <br>
     <em><i>Anji Bai Cha @yunnansourcing.com</i></em>
 </p>
