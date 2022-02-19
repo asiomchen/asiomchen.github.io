@@ -58,7 +58,7 @@ Po pierwsze, nie mniej złożone procesy zachodzą wraz z rozwojem pędów zielo
 
 Po drugie, chciałem przypomnieć, że oprócz świata, w którym ludzie wolą nie szukać wyjaśnień, ale odpisać wszystko na mistyczne, zasadniczo niepoznawalne "energie", istnieje inny świat – świat poszukiwań naukowych, inteligencji, pomysłowości i zuchwałości. A osiągnięcia tego świata są imponujące.
   
-  Bibliografia:  - http://www.baicha.cn/html/2217.html , http://www.baicha.cn/html/2882.html , https://www.sohu.com/a/212586240_99973398 , http://dangjian.people.com.cn/n1/2020/0420/c117092-31. , https://baijiahao.baidu.com/s?id=1640484551044781425.. , https://www.tandfonline.com/doi/abs/10.1080/14620316
+  Bibliografia:  - http://www.baicha.cn/html/2217.html , http://www.baicha.cn/html/2882.html , https://www.sohu.com/a/212586240_99973398 , http://dangjian.people.com.cn/n1/2020/0420/c117092-31. , https://baijiahao.baidu.com/s?id=1640484551044781425 
 
 <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015330'>Analiza trinksryptomiczna</a>
 [Analiza proteomiczna](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3162873/)
