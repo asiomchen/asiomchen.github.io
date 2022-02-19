@@ -25,10 +25,10 @@ authors:
     sal:
       name:           Anton
       site:           
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         
       bio:            
       email:          antonoherbacie@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:        
 
     jane:
       name:           Jane
@@ -46,7 +46,7 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
+      author: Anton
       avatar: /assets/images/avatar1.jpg
       
   # all pages
