@@ -9,9 +9,9 @@ Anji Bai Cha (安吉白茶), biała herbata Anji to nowoczesna odmiana zielonej 
 
 
 <p align="center">
-  <img alt="img-name" src="/assets/images/anji/51162444565_3c8e357712_b.jpg" width="600">
+  <img alt="img-name" src="/assets/images/anji/anji-1" width="600">
   <br>
-    <em><i>Anji Bai Cha @camelia sinensus.com</i></em>
+    <em><i>Anji Bai Cha @yunnansourcing.com</i></em>
 </p>
 
 W ciągu dwudziestu lat produkcja Anji Bai Cha wzrosła wielokrotnie i obecnie wynosi około 2000 ton rocznie. Anji Bai Cha stała się jedną z najbardziej znanych zielonych herbat nie tylko w Zhejiang, ale także w całych Chinach. Oprócz Zhejiang, Bai Ye Yi Hao są uprawiane w Liyang, Changzhou, Jiangsu, Yanhe-tujias w autonomicznym rejonie Tunzhen, w prowincji Guizhou itp. Ceny herbaty z kultywarów o białych liściach i żółtych liściach (Bai Ye Yi Hao - najpopularniejszy z nich, ale nie jedyny) są dość wysokie, a zainteresowanie taką herbatą stale rośnie ,więc w jej produkcji opóźnione regiony widzą możliwość przezwyciężenia ubóstwa.
@@ -21,6 +21,12 @@ Bai Ye Yi Hao jest termowrażliwym półalbinosem. Pierwsze pąki i liście maj�
 Herbata z Bai Ye Yi Hao, zebrana na etapie wybielania, ma niezwykły skład chemiczny. Zawiera mniej chlorofilu (patrz zdjęcie 6) wpływając na kolor, ale oczywiście nie wpływa to na smak – chlorofil jest nierozpuszczalny i nie przyczynia się do smaku i aromatu herbaty. Ważne jest inne: Anji Bai Cha zawiera znacznie mniej kofeiny i innych alkaloidów purynowych w porównaniu ze zwykłymi zielonymi herbatami; znacznie mniej polifenoli – tylko 10-14%; znacznie więcej aminokwasów (przede wszystkim teaniny, a także allotreoniny, glicyny, seryny, tryptofanu, cytruliny, glutaminy, alaniny, waliny i proliny) – do 6-7, a w niektórych przypadkach do 10%, co jest wielokrotnie wyższe niż w zwykłych zielonych herbatach. To sprawia, że Anji Bai Cha smakuje orzeźwiająco, słodko, z wyraźnym smakiem umami i minimalną cierpkością i goryczą.
 
 Procesy zachodzące w liściach kultywarów o białych liściach i żółtych liściach podczas etapów wybielania i zielenienia oraz mechanizmy ich regulacji przyciągnęły dużą uwagę naukowców. Skład liści Bai Ye Yi Hao został zbadany na poziomach: transkrypcyjnym (zbiór RNA), proteomicznym (zbiór białek) i metabolomicznym (zbiór metabolitów endogennych o niskiej masie cząsteczkowej) poziomach, na końcu podam linki do odpowiednich badań, a tu chcę się zatrzymać tylko na chwilę żeby pokazać, jak skomplikowaną biochemicznie fabryką jest liść herbaty.
+
+<p align="center">
+  <img alt="img-name" src="/assets/images/anji/anji-2" width="600">
+  <br>
+    <em><i>Anji Bai Cha @yunnansourcing.com</i></em>
+</p>
 
 Chlorofil znajduje się w tylakoidach – strukturach błonowych zebranych w stosy - grany wewnątrz chloroplastów – organelli odpowiedzialnych w komórkach roślinnych za fotosyntezę. Wraz ze zmniejszeniem biosyntezy chlorofilu – na przykład podczas długotrwałego przebywania w ciemności-chloroplasty odwracalnie przekształcają się w słabo zabarwione etioplasty. Na pierwszym etapie" żółto-zielone" chloroplasty Bai Ye Yi Hao miały typową strukturę z dobrze zaznaczonymi tylakoidami zebranymi w grany; na etapie wybielania grany zniknęły, w chloroplastach pozostało tylko kilka tylakoidów, część chloroplastów zamieniła się w etioplasty; po wzroście temperatury na etapie zazieleniania liczba chloroplastów wzrosła, a ich struktura powróciła do normy (patrz zdjęcie 7).
 
