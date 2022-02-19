@@ -44,7 +44,8 @@ Karboksylaza rybulozo-1,5-bisfosforanowu (RuBisCO) jest najważniejszym enzymem 
   <img alt="anji-6" src="/assets/images/anji/anji-6.jpg" width="400">
   <br>
     <em><i>Schemat aktywności szlaków metabolicznych na różnych etapach rozwoju Bai E i Hao. Od lewej do prawej na kolorowych paskach - etapy: yg-etap "żółto-zielony", WI - wczesne wybielanie, WII - późne wybielanie, G-zielone. Kolor oznacza stężenie metabolitów, skala kolorów jest dziesiętno-logarytmiczna, czyli między "1" a "2" różnica jest 10-krotna. @doi: <a href='https://dx.doi.org/10.1371%2Fjournal.pone.0139996'>10.1371/journal.pone.0139996</a> </i></em>
-&#10;
+
+
 Należy również wziąć pod uwagę fakt, że kwas glutaminowy jest zużywany  w biosyntezie chlorofilu – znajduje się na samym początku łańcucha dwudziestu reakcji prowadzących do powstania chlorofilu. A wraz ze spadkiem syntezy chlorofilu może wystąpić nadmiar glutaminianu, który można skierować na syntezę teaniny.
 Na etapie wybielania zmniejsza się ekspresja białek szoku cieplnego HSP60 i HSP70, a HSP70 jest niezbędny do prawidłowego rozwoju chloroplastów. Czynnik inicjujący 4a (eIF-4A) odgrywa ważną rolę w inicjacji translacji u eukariontów, zmniejszenie jego zawartości na etapie wybielania może prowadzić do upośledzenia biosyntezy nowych białek – w tym enzymów, o których wspomniano powyżej.
   
