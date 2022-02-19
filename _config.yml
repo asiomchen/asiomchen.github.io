@@ -8,6 +8,9 @@ disqus: 'demowebsite'
 email: 'antonoherbacie@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
+# Google Analytics
+google_analytics: G-M21W0DLNQ4
+
 include: ["_pages"]
 permalink: /:title/
 
