@@ -1,5 +1,5 @@
 ---
-title: "Privacy Policy"
+title: "Polityka Prywatnośći"
 permalink: "/privacy-policy.html"
 ---
 
