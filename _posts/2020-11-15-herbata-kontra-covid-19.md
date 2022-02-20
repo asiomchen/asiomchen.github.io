@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Herbata konta COVID-19"
+categories: [Chemia herbaty]
+image: assets/images/ltea/ltea-0.PNG
+---
 
 Dni robią się coraz chłodniejsze, mamy coraz więcej zakażeń koronawirusem. Więc pijemy więcej herbaty, dlatego pomyślałem że przydałoby się powiedzieć trochę o związku pomiędzy herbatą a SARS-CoV-2.
 
