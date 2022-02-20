@@ -3,14 +3,9 @@ layout: post
 title:  "Purpurowa herbata. Antocyjany. Zǐ Yá, Zǐ Juān i Zi Jian."
 author: 
 categories: [Kultywary]
-image: assets/images/gaba/gaba-0-alt.PNG
+image: assets/images/purple/purple-0.jpg
 tags: 
 ---
-
-  <img alt="gaba-1" src="/assets/images/gaba/gaba-1.jpg" width="400">
-  <br>
-    <em><i>Synteza GABA <a href='https://doi.org/10.1590/S1517-83822012000400001'>Źródło</a> </i></em>
-</p>
 
 Wraz z odmianami roślin herbacianych, których młode pędy mają jasnozielony kolor, są też takie, w których pąki i młode liście mają czerwonawy, fioletowy lub bordowy kolor. Wynika to z wysokiej zawartości antocyjanów.
 Antocyjany są najważniejszymi (obok karotenoidów i betalainów) pigmentami roślinnymi, szeroko rozpowszechnionymi w przyrodzie. Czerwone, fioletowe, różowe, niebieskie i granatowe kwiaty, dojrzałe owoce, kolory jesiennych liści – antocyjany są odpowiedzialne za to wszystko. Antocyjany są glikozydami, co oznacza, że ich cząsteczki składają się z części niewęglowodanowej (aglikonu) i reszty węglowodanowej, która może być reprezentowana przez mono-(glukozę, galaktozę, ramnozę), di - i trisacharydy; cząsteczki antocyjanów mogą zawierać inne fragmenty – na przykład reszty kwasu kawowego. Aglikony antocyjanów nazywane są antocyjanidynami i odnoszą się, podobnie jak katechiny, do flawonoidów u ich podstaw leży struktura 2-fenylobenzopiranu, którego część atomów wodoru w trzech pierścieniach można zastąpić grupami hydroksylowymi bądź metoksylowymi (patrz zdjęcia 4 i 5). Kolor barwnika zależy od liczby i rodzaju tych grup, ale możliwości palety antocyjanów nie są wyczerpane. Na kolor wpływają również inne części cząsteczki i odczyn środowiska (niektóre antocyjanidyny mają do 4 przejść kolorów w zależności od pH ośrodka), obecność jonów metali (glin, żelazo, magnez, molibden, wolfram). Dlatego kolorystyka kwiatów, owoców i liści jest tak różnorodna.
