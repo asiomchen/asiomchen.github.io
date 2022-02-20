@@ -2,7 +2,7 @@
 layout: post
 title:  "O cykadach herbacianych. Szczegóły interakcji Empoasca (Matsumurasca) onukii Matsuda i innych z liśćmi herbaty."
 categories: [Chemia herbaty]
-image: assets/images/owad/owad-0.jpg
+image: assets/owad/owad-0.jpg
 ---
 
 W ostatnim tygodniu dużo osób piję tajwański oolong Dong Fang Mei Ren w produkcji którego istotną rolę odgrywają cykady więc przydałoby się o nich powiedzieć. 
@@ -15,7 +15,7 @@ Możliwe są jednak inne mechanizmy działania elicytorów. Np., β-glukozydaza,
 
 Geraniol - nienasycony alkohol acykliczny należący do monoterpenów (patrz rys. 1). Geraniol ma kwiatowy zapach i jest szeroko rozpowszechniony w świecie roślin  - występuje w olejkach eterycznych z róży, geranium, cytryny, trawy cytrynowej, a także w liczi, winogronach i innych. Stwierdzono, że ma właściwości antybakteryjne i jest wykorzystywany przez rośliny do ochrony przed infekcjami bakteryjnymi; geraniol odstrasza również szkodniki i przyciąga pożyteczne owady, które są ich naturalnymi wrogami -  owadziarki(Terebrantes) i muchy z rodziny ścierwicowatych (Sarcophagidae) W roślinach geraniol powstaje z difosforanu geranilu (uniwersalny prekursor wszystkich monoterpenów, którego struktura izoprenowa jest tworzona de novo z acetylo-CoA, patrz rys. 2 ) za pomocą enzymu syntazy geraniolowej. Syntazy geraniolowe są izolowane z bazylii, drzewa kamforowego, barwinka i innych roślin. U owadów również występuje geraniol: u pszczół miodnych pełni rolę feromonu, u chrząszczy z rodziny stonkowatych (Chrysomelidae) powstają z niego substancje ochronne irydoidy itp.
 <p align="center">
-  <img alt="geraniol" src="/assets/images/owad/owad-1.jpg" width="400">
+  <img alt="geraniol" src="/assets/owad/owad-1.jpg" width="400">
   <br>
     <em><i>Geraniol </i></em>
 </p>
@@ -27,7 +27,7 @@ Zhou Yin i współpracownicy odkryli, że chociaż stężenie geraniolu w liści
 
 Naukowcy przygotowali ekstrakt z cykad i dodali difosforan geranilu jako substrat - i ta mieszanina reakcyjna zaczęła wytwarzać geraniol. Oznacza to, że enzym zdolny do rozszczepiania difosforanu geranilu w celu wytworzenia geraniolu był zawarty w samych cykadach. Ale wyizolowanie go i określenie jego struktury nie było takie proste.
 <p align="center">
-  <img alt="gaba-1" src="/assets/images/owad/owad-2.jpg" width="400">
+  <img alt="gaba-1" src="/assets/owad/owad-2.jpg" width="400">
   <br>
     <em><i>Biosynteza geraniolu. GPP – difosforan geranidylu, , IPP – pirofosforan izopentylu, DMAPP – pirofosforan dimetyloallilu.</i></em>
 </p>
@@ -39,7 +39,7 @@ Oprócz syntazy geraniolowej znaleziono w cykadach bakterie Acinetobacter johnso
 
 Również okazało się, że geraniol skutecznie hamuje wzrost Acinetobacter johnsonii. Ale właśnie dlaczego cykady wydzielają enzym, w kontakcie którego z difosforanem geranylu zawartym w liściach herbaty powstaje geraniol, który hamuje wzrost żyjących w nich i, teoretycznie, pożytecznych bakterii, których potrzebują - nie jest jasne, potrzebne są dalsze badania. Ale roślina herbaciana najwyraźniej była w stanie dobrze się do tego przystosować – w końcu jej własna syntaza geraniolowa nie jest aktywowana podczas ataku cykad.
 <p align="center">
-  <img alt="owad-3" src="/assets/images/owad/owad-3.jpg" width="400">
+  <img alt="owad-3" src="/assets/owad/owad-3.jpg" width="400">
   <br>
     <em><i>Produkcja geraniolu (po lewej) i aktywność syntetazy (po prawej). CK – kontrolna, tzn, pędy bez cykad, Insect – pędy z cykadami <a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6995508/>Źródło</a></i></em>
 </p>
