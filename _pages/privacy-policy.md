@@ -3,41 +3,37 @@ title: "Privacy Policy"
 permalink: "/privacy-policy.html"
 ---
 
-"{{site.name}}" takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
+"{{site.name}}" poważnie traktuje Twoją prywatność. Aby lepiej chronić Twoją prywatność, udostępniamy niniejszą Politykę prywatności wyjaśniającą sposób gromadzenia i wykorzystywania Twoich danych osobowych.
 
+#### Gromadzenie podstawowych informacji
 
-#### Collection of Routine Information
+Ta strona śledzi podstawowe informacje o odwiedzających. Informacje te obejmują między innymi adresy IP, szczegóły przeglądarki, znaczniki czasu i strony odsyłające. Żadna z tych informacji nie może osobiście zidentyfikować konkretnego odwiedzającego tą stronę
 
-This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitor to this website. The information is tracked for routine administration and maintenance purposes.
+#### Ciasteczka
 
-
-#### Cookies
-
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and/or present the visitor with customized content.
-
+W razie potrzeby ta strona internetowa wykorzystuje pliki cookie do przechowywania informacji o preferencjach i historii odwiedzającego, aby lepiej służyć odwiedzającemu i/lub prezentować mu dopasowane treści.
 
 #### Advertisement and Other Third Parties
 
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track visitor activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Partnerzy reklamowi i strony trzecie mogą używać plików cookie, skryptów i/lub sygnałów nawigacyjnych do śledzenia aktywności odwiedzających na tej stronie w celu wyświetlania reklam i innych przydatnych informacji. Takie śledzenie odbywa się bezpośrednio przez osoby trzecie za pośrednictwem ich własnych serwerów i podlega ich własnej polityce prywatności. Ta strona internetowa nie ma dostępu ani kontroli nad tymi plikami cookie, skryptami i/lub sygnalizatorami sieciowymi, które mogą być używane przez osoby trzecie. Dowiedz się, jak [zrezygnować z używania plików cookie Google](http://www.google.com/privacy_ads.html).
+
+#### Linki do stron trzecich
+
+Zamieściliśmy linki do stron trzecich na tej stronie internetowej do użytku i odniesienia. Nie ponosimy odpowiedzialności za politykę prywatności na tych stronach. Należy pamiętać, że polityka prywatności tych witryn może różnić się od naszej.
 
 
-#### Links to Third Party Websites
+#### Biezbieczeństwo
 
-We have included links on this website for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
-
-
-#### Security
-
-The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Bezpieczeństwo Twoich danych osobowych jest dla nas ważne, ale pamiętaj, że żadna metoda transmisji przez Internet lub metoda elektronicznego przechowywania nie jest w 100% bezpieczna. Chociaż staramy się wykorzystywać komercyjnie akceptowalne sposoby ochrony danych osobowych, nie możemy zagwarantować ich absolutnego bezpieczeństwa.
 
 
 #### Changes To This Privacy Policy
 
-This Privacy Policy is effective and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+Niniejsza Polityka Prywatności jest skuteczna i pozostanie w mocy z wyjątkiem wszelkich zmian w jej postanowieniach w przyszłości, które wejdą w życie natychmiast po opublikowaniu na tej stronie.
 
-We reserve the right to update or change our Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided us, or by placing a prominent notice on our website.
+Zastrzegamy sobie prawo do aktualizacji lub zmiany naszej Polityki Prywatności w dowolnym momencie i należy okresowo sprawdzać niniejszą Politykę prywatności. Jeśli wprowadzimy jakiekolwiek istotne zmiany w niniejszej Polityce Prywatności, umieścimy wyraźne powiadomienie na naszej stronie internetowej.
 
 
-#### Contact Information
+#### Kontakt
 
-For any questions or concerns regarding the privacy policy, please [contact us here]({{site.baseurl}}/contact.html).
+W przypadku jakichkolwiek pytań lub wątpliwości dotyczących Polityki Prywatności, [skontaktuj się ze mną tutaj]({{site.baseurl}}/contact.html).
