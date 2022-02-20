@@ -22,7 +22,10 @@ Najbardziej interesujący, z mojego punktu widzenia, jest przypadek zielonej her
 Jest to tylko mała część związków pomiędzy herbatą a procesami biologicznymi, jednak nawet to pokazuje jak dużo już wiemy a jak dużo odkryć jeszcze nas czeka. Pijcie herbatę i bądźcie zdrowi!
 
 Źródła:
-[[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7499281/)
-[[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367004/)
-[[3]](https://pubmed.ncbi.nlm.nih.gov/31487871/)
-[[4]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332865/)
+[[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7499281/),
+[[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367004/),
+[[3]](https://pubmed.ncbi.nlm.nih.gov/31487871/),
+[[4]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7332865/),
+[[5]](https://baike.baidu.com/item/恩施玉露),
+[[6]](https://onlinelibrary.wiley.com/doi/full/10.1002/jmv.25761?fbclid=IwAR1-ox3hIV5KUALJu5Fj1nO1kRqF0QDhN4eR3xB9XiHw7qawW3g5Z9NHhJ8),
+[[7]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7367004/?fbclid=IwAR2mDCOeaxIfYxvaV9Wa48nkoAciEeXGmfd4B3DTMQUd9RcHFp6KSMN2pxI)
