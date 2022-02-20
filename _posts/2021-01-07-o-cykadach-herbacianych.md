@@ -41,7 +41,7 @@ Również okazało się, że geraniol skutecznie hamuje wzrost Acinetobacter joh
 <p align="center">
   <img alt="owad-3" src="/assets/owad/owad-3.jpg" width="400">
   <br>
-    <em><i>Produkcja geraniolu (po lewej) i aktywność syntetazy (po prawej). CK – kontrolna, tzn, pędy bez cykad, Insect – pędy z cykadami <a href=https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6995508/>Źródło</a></i></em>
+    <em><i>Produkcja geraniolu (po lewej) i aktywność syntetazy (po prawej). CK – kontrolna, tzn, pędy bez cykad, Insect – pędy z cykadami <a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6995508/'>Źródło</a></i></em>
 </p>
 Wnioski: podczas ataku zielonych cykad, wraz z aktywacją enzymów rośliny herbacianej odpowiedzialnych za uwalnianie substancji smakowych (jak w przypadku linaloolu), dochodzi również do działania enzymów samych cykad, wpływających również na skład chemiczny, aromat i smak herbaty.. Po prostu nie zapominaj, że wszystko to dotyczy tylko niuansów smaku i aromatu, wyrażeń ich poszczególnych odcieni. Chociaż powyższe jest niezwykle fascynujące, Dong Fang Mei Ren  produkują ludzie, i w swoich podstawowych cechach profil smakoaromatyczny Peng Feng jest wynikiem jak technologii tak i walki pomiędzy roślinami i owadami, której bohaterami są geny, enzymy i ich substraty.
 Źródła:
