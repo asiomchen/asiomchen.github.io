@@ -1,6 +1,6 @@
 # Site
 name: 'Anton o herbacie'
-description: 'O herbacie i nie tylko.'
+description: ''
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/'
