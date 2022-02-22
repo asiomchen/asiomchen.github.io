@@ -43,7 +43,7 @@ W ciągu roku największa zawartość L-teaniny (jak rozumiem, w roślinie w og�
     <em><i>Zawartość L-teaniny w różnych częściach żółtolistny i białolistny odmiany krzewu herbacianego </i></em>
 </p>
 
-Zawartość L-teaniny w liściach herbaty jest dodatnio skorelowana z zawartością azotu w glebie i negatywnie – z oświetleniem [[13]](https://pubmed.ncbi.nlm.nih.gov/26058162/ ). Jeśli czytałeś uważnie co jest napisane powyżej, to wiesz dlaczego. W celach komercyjnych jest opracowywana technologia mikrobiologicznego otrzymywania L-teaniny za pomocą bakteryjnych syntetaz glutaminy, syntetazy gamma-glutamilmetylamidowej,  transpeptydazy gamma-glutamilmetylamidowej i L-glutaminazy [[14]](https://pubmed.ncbi.nlm.nih.gov/25871834/ ).
+Zawartość L-teaniny w liściach herbaty jest dodatnio skorelowana z zawartością azotu w glebie i negatywnie – z oświetleniem [[13]](https://pubmed.ncbi.nlm.nih.gov/26058162/). Jeśli czytałeś uważnie co jest napisane powyżej, to wiesz dlaczego. W celach komercyjnych jest opracowywana technologia mikrobiologicznego otrzymywania L-teaniny za pomocą bakteryjnych syntetaz glutaminy, syntetazy gamma-glutamilmetylamidowej,  transpeptydazy gamma-glutamilmetylamidowej i L-glutaminazy [[14]](https://pubmed.ncbi.nlm.nih.gov/25871834/).
 
 
 Źródło: [Herbaciarnia „Sowa i panda”](https://vk.com/club47905050)
