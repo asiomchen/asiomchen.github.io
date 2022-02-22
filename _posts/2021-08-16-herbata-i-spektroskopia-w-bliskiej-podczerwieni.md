@@ -32,7 +32,7 @@ Zespół naukowców z Zhejiang Provincial Key Laboratory of Biometrology and Ins
     <em><i>Widma herbat spoza Anxi @doi: <a href='https://dx.doi.org/10.1155%2F2014%2F704971'>10.1155/2014/704971</a> </i></em>
 </p>
 
-W rezultacie uzyskano wyraźnie różniące się widma herbat z Anxi i spoza Anxi (patrz ryc. 3). Próbki podzielono następnie na zestawy" treningowy" i "predykcyjny" za pomocą algorytmu Kennarda-Stone. A po zastosowaniu do zestawu" predykcyjnego "systemu skalibrowanego wglądem zestawu" treningowego " czułość osiągnęła 93,1%, a swoistość 100%. Nieco upraszczając, można powiedzieć, że po takiej wstępnej kalibracji ponad 90% nowych próbek można jednoznacznie i bezbłędnie przypisać do odpowiedniej kategorii. W ten sposób spektroskopia próbki zajmuje około minuty, a matematyczne przetwarzanie widma zajmuje kilka sekund.
+W rezultacie uzyskano wyraźnie różniące się widma herbat z Anxi i spoza Anxi. Próbki podzielono następnie na zestawy" treningowy" i "predykcyjny" za pomocą algorytmu Kennarda-Stone. A po zastosowaniu do zestawu" predykcyjnego "systemu skalibrowanego wglądem zestawu" treningowego " czułość osiągnęła 93,1%, a swoistość 100%. Nieco upraszczając, można powiedzieć, że po takiej wstępnej kalibracji ponad 90% nowych próbek można jednoznacznie i bezbłędnie przypisać do odpowiedniej kategorii. W ten sposób spektroskopia próbki zajmuje około minuty, a matematyczne przetwarzanie widma zajmuje kilka sekund.
 
 <p align="center">
   <img alt="nir-3" src="/assets/images/nir/nir-3.jpg" width="400">
