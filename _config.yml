@@ -7,7 +7,7 @@ baseurl: '/'
 disqus: 'demowebsite'
 email: 'antonoherbacie@gmail.com'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-staticman_url: https://api.staticman.net/v3/entry/github/Septiconn/septiconn.github.io/master/comments
+staticman_url: https://api.staticman.net/v3/entry/github/Septiconn/septiconn.github.io/main/comments
 
 # Google Analytics
 google_analytics: G-M21W0DLNQ4
