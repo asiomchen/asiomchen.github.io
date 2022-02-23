@@ -4,7 +4,7 @@
     {% if site.data.comments[page.slug].size > 1 %}
       {{ site.data.comments[page.slug] | size }}
     {% endif %}
-    Comments:
+    Komentarze:
     </h3>
   {% assign comments = site.data.comments[page.slug] | sort %}
     {% for comment in comments %}
@@ -23,16 +23,16 @@
 {% endif %}
 <!-- Comments Form -->
   <form method="POST" action="{{ site.staticman_url }}">
-    <input name="options[redirect]" type="hidden" value="https://example.com">
+    <input name="options[redirect]" type="hidden" value="https://antonoherbacie.pl">
     <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-      <label>Name</label>
+      <label>Imię</label>
       <input name="fields[name]" type="text">
-      <label>E-mail (optional)</label>
+      <label>E-mail (opcjonalne)</label>
       <input name="fields[email]" type="email">
-      <label>Website (optional)</label>
+      <label>Witryna (opcjonalne)</label>
       <input name="fields[url]" type="url">
-      <label>Message</label>
+      <label>Komentarz</label>
       <textarea style="width:100%" name="fields[message]" rows="12"></textarea>
-      <small>Comments will appear after moderation.</small>
-      <button type="submit">Submit comment</button>
+      <small>Komentarz zostanie opublikowany po moderacji</small>
+      <button type="submit">Wyślij komentarz</button>
   </form>
