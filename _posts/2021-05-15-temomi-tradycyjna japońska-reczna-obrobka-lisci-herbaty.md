@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Temomi - tradycyjna japońska ręczna obróbka liści herbaty."
+title:  "Temomi - tradycyjna japońska ręczna obróbka liści herbaty"
 categories: [Technologia produkcji herbaty]
 image: assets/images/temomi/temomi-0.jpg
 ---

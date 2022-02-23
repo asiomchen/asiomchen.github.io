@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Grzyby i bakterie w herbatach puer."
+title:  "Grzyby i bakterie w herbatach puer"
 categories: [Chemia herbaty]
 image: assets/images/micro-puer/puer-0.jpg
 tags: featured

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O cykadach herbacianych. Szczegóły interakcji Empoasca (Matsumurasca) onukii Matsuda i innych z liśćmi herbaty."
+title:  "O cykadach herbacianych. Szczegóły interakcji Empoasca (Matsumurasca) onukii Matsuda i innych z liśćmi herbaty"
 categories: [Chemia herbaty]
 image: assets/owad/owad-0.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Anji Bai Cha: o molekularnych podstawach bielactwa herbacianego."
+title:  "Anji Bai Cha: o molekularnych podstawach bielactwa herbacianego"
 categories: [Kultywary]
 image: assets/images/demo1.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O biochemicznych podstawach produkcji oolong. Kwas jasmonowy."
+title:  "O biochemicznych podstawach produkcji oolong. Kwas jasmonowy"
 categories: [Chemia herbaty]
 image: assets/images/jasmoniany/jasmoniany-0.png
 ---
