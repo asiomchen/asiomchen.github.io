@@ -1,8 +1,8 @@
 # Site
 name: 'Anton o herbacie'
 description: ''
-logo: 'assets/images/ua.jpg'
-favicon: 'assets/images/favicon.ico'
+logo: ''
+favicon: 'assets/images/ua.jpg'
 baseurl: '/'
 disqus: 'demowebsite'
 email: 'antonoherbacie@gmail.com'
