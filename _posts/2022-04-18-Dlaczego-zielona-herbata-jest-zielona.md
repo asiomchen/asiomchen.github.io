@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dlaczego zielona herbta jest zielona"
-categories: [Chemia herbaty]
+categories: [Chemia herbaty, Chlorofil]
 image: assets/images/green_is_green/title.webp
 tags: featured
 ---
