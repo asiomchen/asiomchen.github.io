@@ -36,7 +36,7 @@ W celu zbadania losów chlorofili w herbatach zostały porównane herbaty prażo
 <p align="center">
   <img alt="chlase" src="/assets/images/green_is_green/chlase.png" width="400">
   <br>
-    <em><i>Teorytyczna struktura chlorofilazy z pomorańczy chińskiej (*Citrus sinensis*) </i></em>
+    <em><i>Teorytyczna struktura chlorofilazy z pomorańczy chińskiej (<i>Citrus sinensis</i>) </i></em>
 </p>
 
 Przejdziemy teraz do mniej oczywistych związków chemicznych wpływających na kolor herbaty. Flawonoidy to grupa związków, których korelacja z kolorami roślin były często wspominane we wcześniejszych badaniach. Wśród flawonoidów herbacianych najwięcej jest katechin, które stanowią około 20% suchej masy zielonej herbaty. Związki te jednak są bezbarwne, a produkty ich utlenienia przyczyniają się do pojawienia się czerwieni w herbatach bardziej utlenionych.  
@@ -50,6 +50,7 @@ Flawonole to kolejna grupa polifenoli herbacianych, które stanowią od 2% do 3%
 
 Źródła:
 [[1]](https://doi.org/10.1111/j.1365-2621.2004.tb09894.x),
-[[2]](https://doi.org/10.1016/S0260-8774(00)00069-8)
+[[2]](https://doi.org/10.1016/S0260-8774(00)00069-8),
 [[3]](https://doi.org/10.2754/avb201483S10S103)
+
 Zdjęcie tytułowe : [yunnan sourcing](https://yunnansourcing.com/collections/green-tea-spring-2022/products/yunnan-zhu-ye-qing-green-tea)
