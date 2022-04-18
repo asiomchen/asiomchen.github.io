@@ -9,7 +9,7 @@ tags: featured
 Kolor herbaty często jest odznaką jakości lub identyfikatorem rodzaju herbaty – ma przykład sam wygład naparu japońskiej mocno parowanej zielonej herbaty już dużo mówi. Właśnie o kolorze herbat zielonych i chciałbym opowiedzieć w tym artykule. Może się wydawać, że sprawa jest prosta – zielone liście zawierają chlorofil i jest on zielony, ale jest to historia ciut bardziej skomplikowana.
 
 Naukowcy z Kyung Hee University w Korei postanowili zbadać, które związki odpowiadają za kolor różnych herbat zielonych z wyspy Jeju. Bazowa ocena była wykonywana przez testerów na podstawie skali 9 punktowej dla liści herbaty i dla naparu.
-Podczas oceny sensorycznej instruowano testerów, aby ocenili „stopień zieleni, na który mogą wpływać nie tylko elementy zielone (wartość a), ale także żółte (wartość b). We wcześniejszych badaniach często używano kąta odcienia tan^–1 (–a/b)  do wyrażania koloru zielonego. Zmniejszenie kąta odcienia odpowiada za zmniejszenia zazieleniania i wzrostu zażółcenia.  Wykresy zależności kąta odcienia od zawartości rożnych substancji pozwala na ocenę ich wpływu na kolor herbaty.
+Podczas oceny sensorycznej instruowano testerów, aby ocenili „stopień zieleni, na który mogą wpływać nie tylko elementy zielone (wartość a), ale także żółte (wartość b). We wcześniejszych badaniach często używano kąta odcienia tan<sup>-1</sup>(–a/b)  do wyrażania koloru zielonego. Zmniejszenie kąta odcienia odpowiada za zmniejszenia zazieleniania i wzrostu zażółcenia.  Wykresy zależności kąta odcienia od zawartości rożnych substancji pozwala na ocenę ich wpływu na kolor herbaty.
 
 <p align="center">
   <img alt="Lu Shan Yun Wu" src="/assets/images/green_is_green/green2.webp" width="400">
