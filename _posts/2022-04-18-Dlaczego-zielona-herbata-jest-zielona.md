@@ -12,7 +12,7 @@ Naukowcy z Kyung Hee University w Korei postanowili zbadać, które związki odp
 Podczas oceny sensorycznej instruowano testerów, aby ocenili „stopień zieleni, na który mogą wpływać nie tylko elementy zielone (wartość a), ale także żółte (wartość b). We wcześniejszych badaniach często używano kąta odcienia tan<sup>-1</sup>(–a/b)  do wyrażania koloru zielonego. Zmniejszenie kąta odcienia odpowiada za zmniejszenia zazieleniania i wzrostu zażółcenia.  Wykresy zależności kąta odcienia od zawartości rożnych substancji pozwala na ocenę ich wpływu na kolor herbaty.
 
 <p align="center">
-  <img alt="Lu Shan Yun Wu" src="/assets/images/green_is_green/green2.webp" width="400">
+  <img alt="Lu Shan Yun Wu" src="/assets/images/green_is_green/green2.webp" width="500">
   <br>
     <em><i>Lu Shan Yun Wu <a href='https://yunnansourcing.com/collections/green-tea-spring-2022/products/lu-shan-yun-wu-green-tea-of-jiangxi'>@yunnan sourcing</a> </i></em>
 </p>
@@ -23,7 +23,7 @@ Niewątpliwie najważniejszymi związkami wpływającymi na zieleń suchych liś
 Mimo podobieństwa struktur chlorofile i feofityny są nierozpuszczalne w wodzie dlatego, że do nich jest dołączona reszta fitolu (patrz rysunek) – jest to diterpen, do tej grupy zalicza się też stewiol, odpowiadający za słodki smak stewii. Fitol jest bardzo słabo rozpuszczalny w wodzie i zapewnia kotwiczenie chlorofili w komórce, fragment fitolu jest też obecny w strukturze witaminy E. Feofityny bardzo przypomina chlorofili, tyle że nie ma w środku atomu magnezu, zaś feoforbid traci też fitol robiąc się rozpuszczalnym w wodzie. Te dwa związki są produktami rozpadu chlorofili i wraz z wolnym magnezem odpowiadają za zmianę koloru i zwiększenie cierpkości herbat zielonych z czasem. 5-6 miesięcy po zbiorach herbata może tracić do 50% chlorofili, a po roku aż do 93% ulega przekształceniu. 
 
 <p align="center">
-  <img alt="pochodne chlorofili" src="/assets/images/green_is_green/tp.bmp" width="400">
+  <img alt="pochodne chlorofili" src="/assets/images/green_is_green/tp.bmp" width="500">
   <br>
     <em><i>Pochodne chlorofili obecne w herbacie </i></em>
 </p>
