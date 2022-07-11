@@ -16,7 +16,6 @@ Pomimo licznych prób naukowcy nie zastosowali jeszcze technik inżynierii genet
 
 Armatka genowa to metoda zachwycająca swą prostotą. Jest dosłownie armatką, tylko z bardzo małymi pociskami. Pył, którym strzela w komórki, to cząsteczki metali ciężkich (wolframu, złota lub srebra) pokryte materiałem genetycznym, plazmidowym DNA, który chcemy wprowadzić do komórki. Niektóre komórki ulegają zniszczeniu i obumierają, ale niektóre przechodzą transformację – obcy DNA integruje się z jądrem lub organellami komórek i zaczyna funkcjonować. Metoda ta, w większości przypadków, jest używana do modyfikacji roślin choć może też zostać np. użyta do dostarczania DNA szczepionek dla ludzi.
 
-By RachelBrooks15 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=40535573
 <p align="center">
   <img alt="gene_gun" src="/assets/images/2022-07-11/Gene_Gun.svg" width="400">
   <br>
