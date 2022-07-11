@@ -61,24 +61,3 @@ Hongyacha może wypełnić ogromną lukę na rynku. Ponieważ jest to prawdziwa 
 [[4]](https://doi.org/10.1021/acs.jafc.8b03433)
 
 Zdjęcie tytułowe : [yunnan sourcing](https://yunnansourcing.com/collections/dan-cong-oolong-tea-spring-2022/products/wu-dong-chou-shi-dan-cong-oolong-tea)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-Źródła:
-
-
-Zdjęcie tytułowe : [yunnan sourcing](https://yunnansourcing.com/collections/green-tea-spring-2022/products/yunnan-zhu-ye-qing-green-tea)
