@@ -54,10 +54,12 @@ Kilkadziesiąt lat temu Hung-ta Chang, botanik z Sun Yat-sen University w Guangz
 Hongyacha może wypełnić ogromną lukę na rynku. Ponieważ jest to prawdziwa herbata, jest wypełniona tymi samymi związkami, które nadają herbacie z kofeiną jej smak. Biorąc pod uwagę potencjalne zastosowania komercyjne hongyacha, Liang Chen mówi, że planuje albo rozmnażać dziką herbatę, albo wprowadzać mutację do istniejących odmian herbaty przy użyciu ustalonych technik hodowlanych.
 
 [Na podstawie](https://www.nature.com/articles/d41586-019-00400-w)
+
 [[1]](https://doi.org/10.1073/pnas.1419685112)
 [[2]](https://link.springer.com/article/10.1007/s11103-019-00913-y)
 [[3]](http://dx.doi.org/10.1080/15422119.2013.771127)
 [[4]](https://doi.org/10.1021/acs.jafc.8b03433)
+
 Zdjęcie tytułowe : [yunnan sourcing](https://yunnansourcing.com/collections/dan-cong-oolong-tea-spring-2022/products/wu-dong-chou-shi-dan-cong-oolong-tea)
 
 
