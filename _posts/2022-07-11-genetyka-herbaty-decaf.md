@@ -48,7 +48,7 @@ Kilkadziesiąt lat temu Hung-ta Chang, botanik z Sun Yat-sen University w Guangz
 <p align="center">
   <img alt="hyc-1" src="/assets/images/2022-07-11/hyc-2.png" width="400">
   <br>
-    <em><i>. Porównanie cech morfologicznych między Hongyacha (po lewej) i herbatą kakaową (po prawej): (A) Omszenie pąków; (B)pofałdowanie krawędzi liści; (C) średnica kwiatu; (D) Omszenie po zewnętrznej stronie działki kielicha. Reprinted with permission from J. Agric. Food Chem. 2018, 66, 43, 11311–11319. Copyright 2018 American Chemical Society</i></em>
+    <em><i>. Porównanie cech morfologicznych między Hongyacha (po lewej) i herbatą kakaową (po prawej): (A) omszenie pąków; (B) pofałdowanie krawędzi liści; (C) średnica kwiatu; (D) omszenie po zewnętrznej stronie działki kielicha. Reprinted with permission from J. Agric. Food Chem. 2018, 66, 43, 11311–11319. Copyright 2018 American Chemical Society</i></em>
 </p>
 
 Hongyacha może wypełnić ogromną lukę na rynku. Ponieważ jest to prawdziwa herbata, jest wypełniona tymi samymi związkami, które nadają herbacie z kofeiną jej smak. Biorąc pod uwagę potencjalne zastosowania komercyjne hongyacha, Liang Chen mówi, że planuje albo rozmnażać dziką herbatę, albo wprowadzać mutację do istniejących odmian herbaty przy użyciu ustalonych technik hodowlanych.
