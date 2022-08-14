@@ -6,7 +6,7 @@ image: assets/images/demo1.jpg
 ---
 Anji Bai Cha (安吉白茶), to nowoczesna odmiana zielonej herbaty z rejonu Anji w prowincji Zhejiang. W latach 70. w pobliżu wsi Dashi odkryto stare drzewo herbaciane o niezwykłym jasnym kolorze młodych pędów. W 1982 r. rozpoczęto prace nad namnażaniem wegetatywnym materiału z tego drzewa, w wyniku tego 1991 r. powstała pierwsza partia herbaty o roboczej nazwie Yu Feng (玉凤) – "Jade Phoenix", która została wysoko oceniona przez ekspertów. Pod koniec 1990 roku zakończono badanie właściwości tej odmiany i opracowanie technologii, a w 2000 r. nowa odmiana została zarejestrowana pod nazwą "Bai Ye Yi Hao "(白叶一号) - "białolistny numer jeden", a gotowy produkt otrzymał nazwę Anji Bai Cha. Od 2004 roku nazwa Anji Bai Cha jest chroniona geograficznie.
 <p align="center">
-  <img alt="anji-1" src="/assets/images/anji/anji-1.jpg" width="400">
+  <img alt="anji-1" src="/assets/images/anji/anji-1.webp" width="400">
   <br>
     <em><i>Anji Bai Cha @yunnansourcing.com</i></em>
 </p>
@@ -14,12 +14,12 @@ W ciągu dwudziestu lat produkcja Anji Bai Cha wzrosła wielokrotnie i obecnie w
 
 Bai Ye Yi Hao jest termowrażliwym półalbinosem. Pierwsze pąki i liście mają żółto-zielony kolor. Na etapie pąk + liść - pąk + 2 liście w temperaturze poniżej 20°C liście nabierają charakterystycznego "nefrytowego" koloru – jasnozielonego lub jasnożółtego, nie śnieżnobiałego, ale znacznie jaśniejszego niż "normalny" krzew herbaciany, podczas gdy centralna żyłka liścia i obszary bocznych żyłek blisko niego stają się ciemnozielone, tworząc kontrastowy wzór. Wraz z dalszym rozwojem pędu, a także w temperaturach powyżej 22°C, liście stają się jasnozielone, zwykle w wiosennych pędach herbaty. W przypadku wysokiej jakości Anji Bai Cha surowce są zbierane na etapie wybielania, więc termin ich zbierania jest krótki – zwykle wynosi około dwóch tygodni od połowy marca do początku kwietnia.
 <p align="center">
-  <img alt="anji-1" src="/assets/images/anji/anji-3.jpg" width="400">
+  <img alt="anji-1" src="/assets/images/anji/anji-3.webp" width="400">
   <br>
     <em><i>Pęd Bai E i Hao na trzech różnych etapach rozwoju. @doi: <a href='https://dx.doi.org/10.1186%2F1477-5956-9-44'>10.1186/1477-5956-9-44</a> </i></em>
 </p>
 <p align="center">
-  <img alt="anji-1" src="/assets/images/anji/anji-4.jpg" width="400">
+  <img alt="anji-1" src="/assets/images/anji/anji-4.webp" width="400">
   <br>
     <em><i>Liście Bai E i Hao oraz zawartość chlorofilu w nich na różnych etapach rozwoju: yg-etap "żółto-zielony", WI - wczesne wybielanie, WII - późne wybielanie, G-zielone. @doi: <a href='https://dx.doi.org/10.1371%2Fjournal.pone.0139996'>10.1371/journal.pone.0139996</a> </i></em>
 </p>
@@ -29,7 +29,7 @@ Procesy zachodzące w liściach kultywarów o białych liściach i żółtych li
 
 Chlorofil znajduje się w tylakoidach – strukturach błonowych zebranych w stosy - grany wewnątrz chloroplastów – organelli odpowiedzialnych w komórkach roślinnych za fotosyntezę. Wraz ze zmniejszeniem biosyntezy chlorofilu – na przykład podczas długotrwałego przebywania w ciemności-chloroplasty odwracalnie przekształcają się w słabo zabarwione etioplasty. Na pierwszym etapie" żółto-zielone" chloroplasty Bai Ye Yi Hao miały typową strukturę z dobrze zaznaczonymi tylakoidami zebranymi w grany; na etapie wybielania grany zniknęły, w chloroplastach pozostało tylko kilka tylakoidów, część chloroplastów zamieniła się w etioplasty; po wzroście temperatury na etapie zazieleniania liczba chloroplastów wzrosła, a ich struktura powróciła do normy.
 <p align="center">
-  <img alt="anji-1" src="/assets/images/anji/anji-5.jpg" width="400">
+  <img alt="anji-1" src="/assets/images/anji/anji-5.webp" width="400">
   <br>
     <em><i>Mikrofotografia komórek liści Anji Bai Cha na trzech stadium rozwoju: a, b – «żółto-zielona» , c, d – biała, e, f – zielona. Ch – chloroplast; Et – etioplast; Th – tylakoid Gr – grana; ST – stroma; SG – ziarno skrobi. @doi: <a href='https://dx.doi.org/10.1186%2F1477-5956-9-44'>10.1186/1477-5956-9-44</a> </i></em>
 </p>
@@ -41,7 +41,7 @@ Białka zaangażowane w przemianę azotu i siarki zidentyfikowano jako syntazę 
 Karboksylaza rybulozo-1,5-bisfosforanowu (RuBisCO) jest najważniejszym enzymem liści roślin (jest najbardziej rozpowszechnionym enzymem ma świecie), bezpośrednio odpowiedzialnym za wiązanie dwutlenku węgla w fotosyntezie; można powiedzieć, że to Rubisco dokonuje przejścia z materii nieorganicznej w materię organiczną. Na etapie bielenia zmniejsza się zawartość nienaruszonych dużych podjednostek Rubisco i zwiększa się zawartość ich fragmentów. Zmniejszona aktywność fotosyntetyczna prowadzi do mniejszej produkcji węglowodanów. Poziom fruktozy i glukozo-1-fosforanu jest obniżony podczas "białego etapu", poziom glukozy jest obniżony na początku" białego " etapu i wzrasta pod jego koniec, co wydaje się odzwierciedla zwiększoną hydrolizę rezerwowych polisacharydów. Niedobór węglowodanów prowadzi do aktywacji alternatywnych ścieżek pozyskiwania energii. W rezultacie większość fosfoenolopirogronianu jest kierowana do cyklu kwasu cytrynowego i utleniana w nim, a mniejsza – do szlaku kwasu szikimowego. Wyjaśnia to zmniejszenie produkcji polifenoli - pirogronian niezbędny do ich syntezy jest "spalany".
 
 <p align="center">
-  <img alt="anji-6" src="/assets/images/anji/anji-6.jpg" width="400">
+  <img alt="anji-6" src="/assets/images/anji/anji-6.webp" width="400">
   <br>
     <em><i>Schemat aktywności szlaków metabolicznych na różnych etapach rozwoju Bai E i Hao. Od lewej do prawej na kolorowych paskach - etapy: yg-etap "żółto-zielony", WI - wczesne wybielanie, WII - późne wybielanie, G-zielone. Kolor oznacza stężenie metabolitów, skala kolorów jest dziesiętno-logarytmiczna, czyli między "1" a "2" różnica jest 10-krotna. @doi: <a href='https://dx.doi.org/10.1371%2Fjournal.pone.0139996'>10.1371/journal.pone.0139996</a> </i></em>
 

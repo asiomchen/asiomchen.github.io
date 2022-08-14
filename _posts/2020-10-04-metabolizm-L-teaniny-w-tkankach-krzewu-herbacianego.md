@@ -10,7 +10,7 @@ L-teanina jest najważniejszym aminokwasem krzewu herbacianego, stanowi 40-70% w
 Obecność L-teaniny często próbują połączyć z korzystnymi wpływem herbaty, mimo że zawartość tego aminokwasu w herbacie jest znacznie niższa, niż ilości, które mogą mieć zauważalny efekt. Ponadto, dla pełnej ekstrakcji z herbaty L-teanina wymaga sporo czasu: stwierdzono, że optymalne warunki ekstrakcji – stosunek herbaty do wody 1:20, herbata musi być zmielona do cząstek o wielkości 0,5-1 mm; 80°C, 30 min [[4]](https://pubmed.ncbi.nlm.nih.gov/21735551/). Jak widać, warunki te bardzo się różnią od normalnego parzenia herbaty. Tym nie mniej, biosynteza i transport tego aminokwasu w krzewach herbacianych jest ciekawym zagadnieniem.
 
 <p align="center">
-  <img alt="ltea-1" src="/assets/images/ltea/ltea-1.jpg" width="400">
+  <img alt="ltea-1" src="/assets/images/ltea/ltea-1.webp" width="400">
   <br>
     <em><i>Biosynteza L-teaniny </i></em>
 </p>
@@ -28,7 +28,7 @@ W liściach L-teanina ulega hydrolizie do kwasu glutaminowego i etyloaminy, hydr
 W ten sposób L-teanina ze względu na łatwość powstawania i rozpadu pełni rolę tymczasowego magazynu i azotu, i krótkich węglowodorowych fragmentów, a także środku dostarczania ich od korzeni do liści krzewu herbacianego, pomagając mu elastycznie dostosowywać się do warunków środowiska. Jest to wyjątkowa biochemiczna "sztuczka" krzewów herbaty i rozwijać się jej częściowo pomogli ludzie, odbierając do rozmnażania i uprawy krzewy dające herbatę o orzeźwiającym i słodkawym smaku. Cały "cykl życia" L-teaniny jest przedstawiony na rysunku.
 
 <p align="center">
-  <img alt="ltea-2" src="/assets/images/ltea/ltea-2.jpg" width="400">
+  <img alt="ltea-2" src="/assets/images/ltea/ltea-2.webp" width="400">
   <br>
     <em><i>Cykl życia L-teaniny </i></em>
 </p>
@@ -38,7 +38,7 @@ Zawartość L-teaniny w herbacie zależy również od warunków uprawy, fazy roz
 W ciągu roku największa zawartość L-teaniny (jak rozumiem, w roślinie w ogóle) jest wiosną, a następnie stopniowo zmniejsza się, trochę zwiększając się jesienią. Zimą, w okresie spoczynku L-teanina gromadzi się w korzeniach. Na początku okresu wegetacji przechodzi do pędów, i do sierpnia jej zawartość w korzeniach pozostaje niska [[11]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5383724/), [[12]](https://pubmed.ncbi.nlm.nih.gov/31749819/).Maksymalną ilość L-teaniny zawiera pączek i pierwszy liść. W miarę rozwoju i wzrostu liścia zawartość L-teaniny maleje.
 
 <p align="center">
-  <img alt="ltea-3" src="/assets/images/ltea/ltea-3.jpg" width="400">
+  <img alt="ltea-3" src="/assets/images/ltea/ltea-3.webp" width="400">
   <br>
     <em><i>Zawartość L-teaniny w różnych częściach żółtolistny i białolistny odmiany krzewu herbacianego </i></em>
 </p>

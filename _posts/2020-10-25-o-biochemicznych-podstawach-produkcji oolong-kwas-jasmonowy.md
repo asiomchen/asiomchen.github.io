@@ -21,7 +21,7 @@ W roślinach istnieje wiele substancji, które pełnią funkcje podobne do hormo
 Kwas jasmonowy reguluje procesy wzrostu, starzenia się i opadania liści, tworzenia korzeni i cebul, pyłków. Ale jasmonidy biorą również udział w reakcjach roślin na uszkodzenia (na przykład przez szkodnika owada lub roślinożercę) i wprowadzenie bakterii chorobotwórczych i grzybów. Wyzwalają syntezę związków przeciwdrobnoustrojowych i owadobójczych, a także białek zaburzających proces trawienia u owadów. Zarówno pod względem struktury, jak i funkcji silnie przypominają prostaglandyny zwierząt i ludzi. Prostaglandyny powstają z kwasu arachidonowego, a kwas jasmonowy z innego wielonienasyconego kwasu - α – linolenowego. Ale jeśli prostaglandyny działają lokalnie, przyczyniając się do izolacji ogniska zapalnego (a dokładniej, zapalenie jest mechanizmem lokalizacji wpływu niebezpiecznego czynnika), wówczas kwas jasmonowy rozprzestrzenia się w całej roślinie, zapewniając reakcję ogólnoustrojową, a jego ester - jasmonid metylu jest przenoszony w powietrzu do innych roślin – i oni również zaczynają wytwarzać substancje ochronne. Cykady atakują jeden krzew – a cały obszar plantacji herbaty przygotowuje się do ataku.
 
 <p align="center">
-  <img alt="kwas_jasmonowy" src="/assets/images/jasmoniany/jasmoniany-0.png" width="400">
+  <img alt="kwas_jasmonowy" src="/assets/images/jasmoniany/jasmoniany-0.webp" width="400">
   <br>
     <em><i>Struktura kwasu jasmonowego </i></em>
 </p>
@@ -29,7 +29,7 @@ Co ciekawe, pomimo strukturalnego pokrewieństwa z prostaglandynami i leukotrien
 
 W pracy naukowców z Instytutu Badań nad herbatą Akademii Nauk Rolniczych w prowincji Guangdong ustalono, że w wyniku wytrząsania liści herbaty znacznie wzrasta w nich zawartość kwasu jasmonowego, podczas gdy zawartość kwasów abscysynowego i salicylowego nie zmienia się znacząco (są one bardziej odpowiedzialne za reakcje na infekcję niż uszkodzenia mechaniczne). Ponieważ niektóre etapy biosyntezy kwasu jasmonowego są związane z chloroplastami, naukowcy porównali odbarwione pędy kultywaru albinosa, których komórki mają zmniejszoną liczbę chloroplastów i zaburzoną ich strukturę (pisałem o tych kultywarach we wpisie o Anji Bai Cha ), z zielonymi pędami tej samej odmiany. Okazało się, że produkcja kwasu jasmonowego w odbarwionych pędach spada, ale nie do zera. Jednocześnie zmniejsza się produkcja jasmonolaktonu, (Z)-3-heksen-1-olu, heks-1-enalu i heks-2-enalu – wszystkie te związki są pochodnymi kwasów tłuszczowych, podobnie jak kwas jasmonowy. Również znaleziono gen, którego ekspresja wzrosła po wytrząsaniu tylko w zielonych pędach. Ale do pełnego rozszyfrowania mechanizmów odpowiedzi liści herbaty na uszkodzenia mechaniczne jest jeszcze daleko.
 <p align="center">
-  <img alt="kwas_jasmonowy" src="/assets/images/jasmoniany/jasmoniany-1.jpg" width="400">
+  <img alt="kwas_jasmonowy" src="/assets/images/jasmoniany/jasmoniany-1.webp" width="400">
   <br>
     <em><i>Biosynteza kwasu jasmnowego </i></em>
 </p>

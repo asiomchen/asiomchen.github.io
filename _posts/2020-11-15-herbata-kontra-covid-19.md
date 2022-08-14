@@ -19,7 +19,7 @@ Galusan epigallokatechiny (EGCG) jest jedną z najczęściej występujących kat
 Pochodne teaflawiny występujące głównie w czerwonej herbacie to teaflawina (TF1), 3-galusan teaflawiny (TF2A), 3′-galusan teaflawiny (TF2B) i teaflawina-3,3′-digalusan (TF3). Wszystkie te TF są badane pod kątem ich właściwości bioaktywnych i znane są z szerokiego spektrum właściwości biologicznych, takich jak właściwości przeciwnowotworowe, przeciwwirusowe, przeciwzapalne, przeciwutleniające i przeciwbakteryjne. W przypadku koronawirusów, polimeraza RNA zależna od RNA (RdRp) jest ważnym enzymem, który katalizuje replikację RNA. Remdesivir, lek coraz częściej stosowany w leczeniu COVID-19, jest inhibitorem RdRp i wykazuje szerokie spektrum działania przeciwwirusowego przeciwko kilku RNA wirusom, w tym Ebola, SARS ‐ CoV i MERS ‐ CoV. Wyniki obliczeń wskazują na to że teaflawiny również mogą się hamować RdRp. Teaflawiny, podobnie jak EGCG, znacząco hamują aktywność proteazy 3CL w sposób zależny od stężenia. Stężenie o połowę hamujące aktywność 3CLPro(IC50) teaflawiny wynosiło 8,44 μg/ml, nieco wyższe niż stężenie EGCG (7,58 μg/ml).
 
 <p align="center">
-  <img alt="covid-tf" src="/assets/images/covid/covid-1.jpg" width="400">
+  <img alt="covid-tf" src="/assets/images/covid/covid-1.webp" width="400">
   <br>
     <em><i>Struktury chemiczne kwasu taninowego, katechin i teaflawin. </i></em>
 </p>
@@ -33,7 +33,7 @@ Zwłóknienie płuc u pacjentów z COVID-19 występuje, ponieważ zakażenie SAR
 Najbardziej interesujący, z mojego punktu widzenia, jest przypadek zielonej herbaty Ēnshī Yù Lù. Herbata ta jest wyjątkowa chociaż by dlatego że do zatrzymania utleniania tzw. Shāqīng(杀青) dosłownie „zabicie zieleni” zamiast woka jest używana para wodna tzw. zhēng qīng( 蒸青)czyli mniej więcej tak samo jak to robią w Japonii przy produkcji herbat zielonych. Wpływ na wyjątkowość tej herbaty ma też ziemia na której ona rośnie, mianowicie w rejonie Enshi zawartość selenu w glebie jest znacząco podwyższona w wyniku czego zawartości tego pierwiastka w gotowej herbacie również jest podwyższona. Enshi Yulu zawiera 0,03-4,1 mg selenu w świeżych liściach, 0,08-0,12 mg selenu w gotowej herbacie. Mianowicie zawartość selenu zmniejsza wirulencję(czyli zdolność wniknięcia, namnożenia się oraz uszkodzenia tkanek organizmu) m. in. SARS-CoV-2. Wiele mechanizmów komórkowych i wirusowych obejmujących selen i selenoproteiny mogą wpływać na patogenność wirusów, w tym kodowanie przez wirusy peroksydazy glutationowe zależnej od selenu. Niedobór selenu w diecie, który powoduje stres oksydacyjny organizmu, może zmienić genom wirusa, tak że normalnie łagodny lub lekko patogenny wirus staje się wysoce patogenny pod wpływem stresu oksydacyjnego. Porównanie zawartości selenu we włosach chińczyków poza prowincja Hubei w lutym tego roku a odsetkiem wyleczeń potwierdziło pozytywny wpływ selenu.
 
 <p align="center">
-  <img alt="covid-Se" src="/assets/images/covid/covid-0.jpg" width="400">
+  <img alt="covid-Se" src="/assets/images/covid/covid-0.webp" width="400">
   <br>
     <em><i>Zależność pomiędzy odsetkiem wyleczeń COVID-19 w 17 miastach poza prowincją Hubei, 18 lutego, 2020 a zawartością selenu we włosach mieszkańców. <a href='https://doi.org/10.1590/S1517-83822012000400001'>Źródło</a> </i></em>
 </p>
