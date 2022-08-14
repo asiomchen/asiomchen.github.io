@@ -2,7 +2,7 @@
 layout: post
 title:  "Anji Bai Cha: o molekularnych podstawach bielactwa herbacianego"
 categories: [Kultywary]
-image: assets/images/demo1.webp
+image: assets/images/anji-title.webp
 ---
 Anji Bai Cha (安吉白茶), to nowoczesna odmiana zielonej herbaty z rejonu Anji w prowincji Zhejiang. W latach 70. w pobliżu wsi Dashi odkryto stare drzewo herbaciane o niezwykłym jasnym kolorze młodych pędów. W 1982 r. rozpoczęto prace nad namnażaniem wegetatywnym materiału z tego drzewa, w wyniku tego 1991 r. powstała pierwsza partia herbaty o roboczej nazwie Yu Feng (玉凤) – "Jade Phoenix", która została wysoko oceniona przez ekspertów. Pod koniec 1990 roku zakończono badanie właściwości tej odmiany i opracowanie technologii, a w 2000 r. nowa odmiana została zarejestrowana pod nazwą "Bai Ye Yi Hao "(白叶一号) - "białolistny numer jeden", a gotowy produkt otrzymał nazwę Anji Bai Cha. Od 2004 roku nazwa Anji Bai Cha jest chroniona geograficznie.
 <p align="center">
@@ -60,9 +60,9 @@ Po pierwsze, nie mniej złożone procesy zachodzą wraz z rozwojem pędów zielo
 
 Po drugie, chciałem przypomnieć, że oprócz świata, w którym ludzie wolą nie szukać wyjaśnień, ale odpisać wszystko na mistyczne, zasadniczo niepoznawalne "energie", istnieje inny świat – świat poszukiwań naukowych, inteligencji, pomysłowości i zuchwałości. A osiągnięcia tego świata są imponujące.
   
-  Bibliografia:  - http://www.baicha.cn/html/2217.html , http://www.baicha.cn/html/2882.html , https://www.sohu.com/a/212586240_99973398 , http://dangjian.people.com.cn/n1/2020/0420/c117092-31. , https://baijiahao.baidu.com/s?id=1640484551044781425 
+  Bibliografia:  - [1](http://www.baicha.cn/html/2217.html), [2](http://www.baicha.cn/html/2882.html), [3](https://www.sohu.com/a/212586240_99973398), [4](http://dangjian.people.com.cn/n1/2020/0420/c117092-31.) , [5](https://baijiahao.baidu.com/s?id=1640484551044781425) 
 
-<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015330'>Analiza trinksryptomiczna</a>
+<a href='https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5015330'>Analiza tranksryptomiczna</a>
 [Analiza proteomiczna](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3162873/)
 [Analiza metabolowa](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4622044)
   
