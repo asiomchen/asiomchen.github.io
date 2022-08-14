@@ -3,7 +3,7 @@ layout: post
 title:  "Purpurowa herbata. Antocyjany. Zi Ya, Zǐ Juan i Zi Jian"
 author: 
 categories: [Kultywary]
-image: assets/images/purple/purple-0.jpg
+image: assets/images/purple/purple-0.webp
 tags: 
 ---
 

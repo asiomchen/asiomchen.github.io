@@ -2,7 +2,7 @@
 layout: post
 title:  "Temomi - tradycyjna japońska ręczna obróbka liści herbaty"
 categories: [Technologia produkcji herbaty]
-image: assets/images/temomi/temomi-0.jpg
+image: assets/images/temomi/temomi-0.webp
 ---
 
 Obecnie najpopularniejszą japońską herbatą jest sencha, która stanowi ponad połowę całej herbaty produkowanej w Japonii. Ale do XVIII wieku taka herbata - mocno zwinięta w postaci prostych, długich szmaragdowo-zielonych igieł i o świeżym aromacie, jasnym, przezroczystym naparze i smaku z wyraźnym nutami umami – nie istniała w Japonii. Istniała znakomita proszkowa herbata dla szlachty, surowce do której wybierało się z wstępnie zacienionych krzewów, dzięki czemu zmniejszała się gorycz, i gorzej przetworzona herbata liściasta dla ubogich, która czasami była lekko zwinięta, bez obawy o nadaniu herbacie pięknego kształtu, a czasem tylko suszona, do zatrzymywania utleniania używano jak parę wodną, tak i ogrzewanie w woku, ale zatrzymanie często nie było pełne, herbata ciemniała, w jej zapachu i smaku brakowało świeżości – w sumie, to był o wiele bardziej brutalniejszy produkt, niż, na przykład, współczesna bancha. Ale pod koniec XVII wieku w wiosce Yuyadani (obecnie Ujitawara (宇治田原町) w prefekturze Kioto urodził się człowiek, który wszystko zmienił –  stworzył znany nam wygląd japońskiej zielonej herbaty. Nazywał się Soen Nagatani(永谷 宗円).
@@ -15,31 +15,31 @@ Uważa się, że nowa "niebieska" sencha powstała w 1738 r. była zbyt różna 
 
 Zgodnie z opracowaną przez Nagatani technologią po krótkotrwałej intensywnej obróbce parą wodną - Jōnetsu (蒸熱): liście są umieszczane na specjalnym ciepłym drewnianym stołe (w dawnych czasach – ocieplanym węglem, teraz – oczywiście, prądem), który nazywa się hoiro (ほいろ). 
 <p align="center">
-  <img alt="temomi-1" src="/assets/images/temomi/temomi-1.jpg" width="400">
+  <img alt="temomi-1" src="/assets/images/temomi/temomi-1.webp" width="400">
   <br>
     <em><i>Jōnetsu</i></em>
 </p>
 Hoiro pokryty jest gęstą papierową  blachą - jotan (助炭), a temperatura na jej powierzchni może osiągnąć 110°C. Pierwsza operacja nazywa haburui (葉ぶるい), lub rokiri (露きり): liście są podnoszone z jotana, wstrząsane i ponownie pozostawione na nim, trwa to od 30 do 50 minut. W tym procesie liście tracą do 30% wilgoci i stają się mniej elastyczne, co jest niezbędne jest do późniejszego zgniatania - kaitenmomi (回転揉み), które trwa 40-50 minut. Bryła liści jest toczona po stole, stopniowo spowalniając ruchy i zwiększając nacisk; ważne jest, aby nie używać siły ramion, ale ciężaru całego ciała, płynnie przesuwając środek ciężkości, jest to podobne do tańca lub Taijiquan. 
 <p align="center">
-  <img alt="temomi-2" src="/assets/images/temomi/temomi-2.jpg" width="400">
+  <img alt="temomi-2" src="/assets/images/temomi/temomi-2.webp" width="400">
   <br>
     <em><i>Haburai</i></em>
 </p>
 
 <p align="center">
-  <img alt="temomi-3" src="/assets/images/temomi/temomi-3.jpg" width="400">
+  <img alt="temomi-3" src="/assets/images/temomi/temomi-3.webp" width="400">
   <br>
     <em><i>Kaitenmomi</i></em>
 </p>
 
 Następnie nakaage (中上げ) – chłodzenie w celu redystrybucji wilgoci w liściach, w tym celu herbata jest usuwana ze stołu, w tym czasie jotan jest czyszczony i suszony, i tamadoki (玉解き) - rozplątywanie grudek w celu oddzielenia liści od siebie. Kolejnym etapem formowania jest momikiri (揉み切り): małe porcje liści są rozcierane między dwiema dłońmi, to kolejne pół godziny. Herbata zaczyna przybierać wydłużony kształt, ale wciąż jest jeszcze daleko od prostych igieł. 
 <p align="center">
-  <img alt="temomi-4" src="/assets/images/temomi/temomi-4.jpg" width="400">
+  <img alt="temomi-4" src="/assets/images/temomi/temomi-4.webp" width="400">
   <br>
     <em><i>Tamadoki</i></em>
 </p>
 <p align="center">
-  <img alt="temomi-5" src="/assets/images/temomi/temomi-5.jpg" width="400">
+  <img alt="temomi-5" src="/assets/images/temomi/temomi-5.webp" width="400">
   <br>
     <em><i>Momikiri</i></em>
 </p>
@@ -47,7 +47,7 @@ Następnie nakaage (中上げ) – chłodzenie w celu redystrybucji wilgoci w li
 Następnym etapem obróbki jest dengurimomi (でんぐり揉み): liście są jakby ugniatane, przesuwane i ściskane o siebie w ściśle określony sposób, trwa to 30-40 minut. Herbata na tym etapie zmienia kolor na ciemnozielony i pojawia się intensywny, głęboki aromat. Ostatnim etapem jest shiagemomi (仕上げ揉み), w którym herbata otrzymuje charakterystyczny kształt igły. Konkretne metody różnią się w zależności od regionu, ale najpopularniejszą opcją jest kokuri, gdy herbata jest zbierana w gęsty stos, dociskana dwiema rękami i dzielona na dwie lub trzy części, a następnie, zamieniając te części miejscami, ponownie zbierana w stos i powtarzano operację, aż wszystkie liście herbaty rozciągną się w kierunku ruchu rąk, zajmuje to od 20 do 40 minut. Następnie pozostaje tylko lekko wysuszyć herbatę, można to zrobić bezpośrednio na hoiro (w tym momencie jej temperatura spada do 70°C), rozkładając herbatę cienką warstwą lub używając szafę suszącą. Suszenie nazywa się kansō (乾燥). W niektórych źródłach poszczególne wspomniane operacje mają różne nazwy, szczegóły mogą się różnić, ale ogólna zasada pozostaje.
 
 <p align="center">
-  <img alt="temomi-6" src="/assets/images/temomi/temomi-6.jpg" width="400">
+  <img alt="temomi-6" src="/assets/images/temomi/temomi-6.webp" width="400">
   <br>
     <em><i>Dengurimomi</i></em>
 </p>
@@ -63,7 +63,7 @@ Rywalizacja rozpoczyna się od losowania - zebrania w jednym miejscu trzydziestu
 Gotowa herbata jest oceniana w 50-punktowej skali według pięciu parametrów: kształtu, koloru suchego liścia, aromatu, koloru naparu i smaku. Można więc uzyskać 250 punktów (niektóre źródła mówią o skali 200 punktów; być może na różnych etapach lub w różnych regionach różne przepisy). Zazwyczaj zwycięzcy otrzymują około 200.
 
 <p align="center">
-  <img alt="temomi-7" src="/assets/images/temomi/temomi-7.jpg" width="400">
+  <img alt="temomi-7" src="/assets/images/temomi/temomi-7.webp" width="400">
   <br>
     <em><i>Gotowa herbata</i></em>
 </p>

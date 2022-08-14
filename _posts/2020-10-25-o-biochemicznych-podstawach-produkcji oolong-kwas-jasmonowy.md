@@ -2,7 +2,7 @@
 layout: post
 title:  "O biochemicznych podstawach produkcji oolong. Kwas jasmonowy"
 categories: [Chemia herbaty]
-image: assets/images/jasmoniany/jasmoniany-0.png
+image: assets/images/jasmoniany/jasmoniany-0.webp
 ---
 Wiele roślin, w tym herbata, reaguje na różne niekorzystne zjawiska – uszkodzenia mechaniczne, patogeny, suszę itp. – zwiększając produkcję substancji lotnych. Niektóre z tych substancji bezpośrednio pełnią funkcje ochronne - na przykład mogą odstraszać szkodniki lub przyciągać owady żywiące się szkodnikami. Druga część to substancje sygnalizacyjne wyzwalające złożone kaskady reakcji obronnych.
 

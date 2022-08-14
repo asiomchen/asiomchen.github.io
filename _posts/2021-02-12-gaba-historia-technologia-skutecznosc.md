@@ -3,14 +3,14 @@ layout: post
 title:  "Herbata GABA: historia, technologia i skuteczność"
 author: 
 categories: [Chemia herbaty]
-image: assets/images/gaba/gaba-0-alt.PNG
+image: assets/images/gaba/gaba-0-alt.webp
 tags: [featured]
 ---
 Mówiąc o herbacie od strony chemii byłoby przestępstwem nie wspomnieć o herbatach GABA, które stają się coraz bardziej popularne.
 
 GABA czyli kwas gamma-aminomasłowy pełni funkcję głównego hamującego przekaźnika w układzie nerwowym. Powstaje z glutaminianu, tego samego który odpowiada za smak umami i często jest dodawany w postaci soli sodowej do różnych potraw i niekiedy uznawany przez niektóre osoby jako bardzo niezdrowy. Enzym dekarboksylaza kwasu glutaminowego (GAD) odszczepia od glutaminianu cząsteczkę dwutlenku węgla i powstaje GABA. Benzodiazepiny, barbiturany i nawet alkohol swoje działania zawdzięczają oddziaływaniom z receptorami GABA-ergicznymi. Jednak kwestia GABA w herbacie budzi kontrowersje.
 <p align="center">
-  <img alt="gaba-1" src="/assets/images/gaba/gaba-1.jpg" width="400">
+  <img alt="gaba-1" src="/assets/images/gaba/gaba-1.webp" width="400">
   <br>
     <em><i>Synteza GABA <a href='https://doi.org/10.1590/S1517-83822012000400001'>Źródło</a> </i></em>
 </p>
@@ -18,7 +18,7 @@ W 1984 roku w Japonii prof. Tsushida z Instytutu drzew owocowych i herbaty posta
 
 W krzewach herbacianych obecne są 2 izoformy wspomnianej już dekarboksylazy kwasu glutaminowego – CsGAD1 i CsGAD2. Mimo że katalizują tą samą reakcję to się różnią. Forma 1 jest aktywowana przez kompleks kalmodulina-jony wapnia, warunki beztlenowe zaś zwiększają stężenie wapnia w liściach aktywując formę 1. Natomiast uszkodzenia mechaniczne wraz z warunkami beztlenowymi aktywują ekspresję formy 2. Podobne mechanizmy są znane również dla innych roślin – ryżu, pomidorów, tytoniu, więc za niedługo może się okazać, że będziemy mieli GABA pomidorki i papierosy, który mieliby działanie uspokajające albo nawet przeciwdrgawkowe, polepszaliby jakość snu, zmniejszali niepokój, jak to robią leki będące analogami GABA.
 <p align="center">
-  <img alt="gaba-2" src="/assets/images/gaba/gaba-2.jpg" width="400">
+  <img alt="gaba-2" src="/assets/images/gaba/gaba-2.webp" width="400">
   <br>
     <em><i>Stężenie GABA i glutaminianu w warunkach tlenowych i beztlenowych <a href='https://www.nature.com/articles/srep23685'>DOI: 10.1038/srep23685</a> </i></em>
 </p>

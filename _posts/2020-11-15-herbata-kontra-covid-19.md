@@ -2,7 +2,7 @@
 layout: post
 title:  "Herbata konta COVID-19"
 categories: [Chemia herbaty]
-image: assets/images/covid/covid-00.jpg
+image: assets/images/covid/covid-00.webp
 tags: featured
 ---
 

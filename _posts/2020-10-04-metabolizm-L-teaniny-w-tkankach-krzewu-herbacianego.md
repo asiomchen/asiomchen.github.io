@@ -2,7 +2,7 @@
 layout: post
 title:  "Metabolizm L-teaniny w tkankach krzewu herbacianego"
 categories: [Chemia herbaty]
-image: assets/images/ltea/ltea-0.PNG
+image: assets/images/ltea/ltea-0.webp
 ---
 
 L-teanina jest najważniejszym aminokwasem krzewu herbacianego, stanowi 40-70% wszystkich wolnych aminokwasów herbaty i wnosi znaczący wkład w jej smak, odpowiadając za słodycz i smak umami. L-teanina została wyodrębniona z herbaty w połowie XX wieku, a pięćdziesiąt lat później zostały wykryte takie jej właściwości, jak wzmocnienie relaksacji, koncentracji i zdolności uczenia się, hipotensyjne, przeciwnowotworowe, hepatoprotekcyjne, immunomodulujące, a nawet wpływ na tworzenie się nowych komórek w mózgu [[1]](https://pubmed.ncbi.nlm.nih.gov/21735448/) , [[2]](https://pubmed.ncbi.nlm.nih.gov/28429900/) , [[3]](https://pubmed.ncbi.nlm.nih.gov/31952134/). Mimo, że dane z badań nie zawsze są wystarczająco przekonujące i nie zawsze są jednoznaczne, L-teanina jest aktywnie promowana jako suplement diety.

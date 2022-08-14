@@ -2,7 +2,7 @@
 layout: post
 title:  "Herbata i spektroskopia w bliskiej podczerwieni"
 categories: [Chemia herbaty]
-image: assets/images/nir/nir-0.jpg
+image: assets/images/nir/nir-0.webp
 ---
 
 
@@ -21,13 +21,13 @@ Najbardziej widoczne pasma absorpcji w bliskiej podczerwieni dają wiązania wod
 
 Zespół naukowców z Zhejiang Provincial Key Laboratory of Biometrology and Inspection and Quarantine, zbadał 570 próbek herbaty Tie Guan Yin – 450 z trzydziestu okręgów w Anxi i 120 z innych regionów: z Yongchun, Huaan, Xiandu, Wuyuan, Daliangshan (Sichuan) -  wszystkie herbaty pochodziły z wiosennego zbioru. W W stanie nieopracowanym część widm TGY spoza Anxi (NATT) była podobna do widm TGY z Anxi (ATT) i trudno było je odróżnić gołym okiem (ryc. 1, 2). Dlatego przeprowadzono wieloetapową analizę matematyczną uzyskanych danych za pomocą oszacowania Stahela-Donoho (SDE, na tym etapie wykluczono próbki dające widma o dużym odchyleniu, ale było ich niewiele – 19 ATT i 5 NATT), metodę częściowych najmniejszych kwadratów (PLSDA), transformację standardowego rozkładu normalnego (SNV transformation) i inne.
 <p align="center">
-  <img alt="nir-1" src="/assets/images/nir/nir-1.jpg" width="400">
+  <img alt="nir-1" src="/assets/images/nir/nir-1.webp" width="400">
   <br>
     <em><i>Widma herbat z Anxi @doi: <a href='https://dx.doi.org/10.1155%2F2014%2F704971'>10.1155/2014/704971</a> </i></em>
 </p>
 
 <p align="center">
-  <img alt="nir-2" src="/assets/images/nir/nir-2.jpg" width="400">
+  <img alt="nir-2" src="/assets/images/nir/nir-2.webp" width="400">
   <br>
     <em><i>Widma herbat spoza Anxi @doi: <a href='https://dx.doi.org/10.1155%2F2014%2F704971'>10.1155/2014/704971</a> </i></em>
 </p>
@@ -35,7 +35,7 @@ Zespół naukowców z Zhejiang Provincial Key Laboratory of Biometrology and Ins
 W rezultacie uzyskano wyraźnie różniące się widma herbat z Anxi i spoza Anxi. Próbki podzielono następnie na zestawy" treningowy" i "predykcyjny" za pomocą algorytmu Kennarda-Stone. A po zastosowaniu do zestawu" predykcyjnego "systemu skalibrowanego wglądem zestawu" treningowego " czułość osiągnęła 93,1%, a swoistość 100%. Nieco upraszczając, można powiedzieć, że po takiej wstępnej kalibracji ponad 90% nowych próbek można jednoznacznie i bezbłędnie przypisać do odpowiedniej kategorii. W ten sposób spektroskopia próbki zajmuje około minuty, a matematyczne przetwarzanie widma zajmuje kilka sekund.
 
 <p align="center">
-  <img alt="nir-3" src="/assets/images/nir/nir-3.jpg" width="400">
+  <img alt="nir-3" src="/assets/images/nir/nir-3.webp" width="400">
   <br>
     <em><i>Nałożone na siebie obrobione widma dla obu herbat @doi: <a href='https://dx.doi.org/10.1155%2F2014%2F704971'>10.1155/2014/704971</a> </i></em>
 </p>

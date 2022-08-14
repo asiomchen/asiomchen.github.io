@@ -34,7 +34,7 @@ Chociaż wiadomo, że świeże liście herbaty mają wysoką aktywność chlorof
 W celu zbadania losów chlorofili w herbatach zostały porównane herbaty prażone, prażono-parowane i mocno parowane. Okazuje się że herbata prażona jest najbardziej zielona, jednak kolor naparu jest najmniej zielony. Parowanie zaś powoduje uszkodzenie struktur komórkowych zwiększając zarówno mętność, jak i odczucie zieleni. Mimo tego że chlorofile są nierozpuszczalne w wodzie, to duża ich dostępność w herbatach parowanych skutkuje ich przejściem do naparu i powstanie agregatów w postaci zielonych kulek, które często można zobaczyć w herbatach japońskich. Średnoi jednak wpływ chlorofili na kolor herbaty jest ograniczony (r<sup>2</sup> = 0.6061).
 
 <p align="center">
-  <img alt="chlase" src="/assets/images/green_is_green/chlase.png" width="400">
+  <img alt="chlase" src="/assets/images/green_is_green/chlase.webp" width="400">
   <br>
     <em><i>Teorytyczna struktura chlorofilazy z pomorańczy chińskiej (<i>Citrus sinensis</i>) </i></em>
 </p>

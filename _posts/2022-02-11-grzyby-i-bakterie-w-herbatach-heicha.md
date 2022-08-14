@@ -2,7 +2,7 @@
 layout: post
 title:  "Grzyby i bakterie w herbatach heicha"
 categories: [Chemia herbaty]
-image: assets/images/micro-heicha/heicha-0.jpg
+image: assets/images/micro-heicha/heicha-0.webp
 tags: featured
 ---
 
@@ -26,7 +26,7 @@ Istotne ścieżki reakcji tworzenia aromatu lub smaku w herbacie można podzieli
 Eurotium cristatum podczas wzrostu wydziela różne enzymy, w tym α-amylazy, oksydazę polifenolową, celulazę,  pektynazę, proteazy itd. Enzymy te mogą np. rozkładać katechiny złożone( EGCG i ECG) w wyniku czego powstają katechiny proste. Ponadto stwierdzono, że ( + )-katechina może zostać przekształcona w metabolity rozszczepienia pierścienia B katechin (BRFC), które są unikalne dla herbat ciemnych np. fuzhuanina A. W porównaniu z surowymi liśćmi  zawartość aldehydów, ketonów i alkoholi terpenowych w ciemnej herbacie znacznie wzrasta. Związki te zapewniają kwiatowy i drzewny zapach, pochodzą one  głownie z utleniania kwasów tłuszczowych i β-karotenu oraz kondensacji karotenoidów, procesy te są zależne od obecności Eurotium cristatum i grzybów z rodzaju Penicillium. 
 
 <p align="center">
-  <img alt="micro-heicha" src="/assets/images/micro-heicha/heicha-1.jpg" width="400">
+  <img alt="micro-heicha" src="/assets/images/micro-heicha/heicha-1.webp" width="400">
   <br>
     <em><i>Porost Eurotium cristatum na herbacie heicha </i></em>
 </p>

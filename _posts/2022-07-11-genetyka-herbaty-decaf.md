@@ -9,7 +9,7 @@ tags: featured
 Pomimo licznych prób naukowcy nie zastosowali jeszcze technik inżynierii genetycznej do stworzenia krzewu herbacianego nie zawierającego kofeinę. Naukowcy z Indii, Japonii, Chin i Stanów Zjednoczonych próbują zatrzymać produkcję kofeiny w herbacie, wprowadzając materiał genetyczny, który ma na celu wyciszenie szlaku syntezy kofeiny, stosując metody oparte na bakteriach, wywołujących choroby roślinne lub armatki genowe, dostarczające DNA do komórek.
 
 <p align="center">
-  <img alt="tea_from_cell" src="/assets/images/2022-07-11/tea_from_cell.jpg" width="400">
+  <img alt="tea_from_cell" src="/assets/images/2022-07-11/tea_from_cell.webp" width="400">
   <br>
     <em><i>Sadzonka herbaty wyhodowana w laboratorium. Źródło: Tea Research Institute of Sri Lanka</i></em>
 </p>
@@ -37,7 +37,7 @@ Niezwykłą, jeszcze mniej zbadaną metodą usuwania kofeiny jest użycie mikroo
 W 2018 roku Liang Chen i jego koledzy z Tea Research Institute of the Chinese Academy of Agricultural Sciences w Hangzhou opisali hongyacha (HYC), naturalnie wolną od kofeiny odmianę C. sinensis, którą znaleźli w górskiej prowincji Fujian. Zespół wykazał, że w hongyacha region DNA kontrolujący transkrypcję genu (TCS1) wymaganego do syntezy zarówno kofeiny, jak i jej prekursora, teobrominy, różni się od tego w normalnych roślinach herbacianych. Zasugerowali, że region ten mógł utracić część swojej funkcji, zachowując jedynie zdolność do produkcji teobrominy – co może wyjaśniać, dlaczego hongyacha jest bogata w tę cząsteczkę, ale zawiera niewykrywalne ilości kofeiny.
 
 <p align="center">
-  <img alt="hyc-1" src="/assets/images/2022-07-11/hyc-1.png" width="400">
+  <img alt="hyc-1" src="/assets/images/2022-07-11/hyc-1.webp" width="400">
   <br>
     <em><i>Charakterystyka morfologiczna Hongyacha: (A) ogólny wygłąd rośliny;
 (B) liście i młode pędy; (C) kwiat; (D) owoce i nasiona. Reprinted with permission from J. Agric. Food Chem. 2018, 66, 43, 11311–11319. Copyright 2018 American Chemical Society</i></em>
@@ -46,7 +46,7 @@ W 2018 roku Liang Chen i jego koledzy z Tea Research Institute of the Chinese Ac
 Kilkadziesiąt lat temu Hung-ta Chang, botanik z Sun Yat-sen University w Guangzhou, w Chinach, znalazł inną dziką roślinę herbacianą zawierającą tylko śladowe ilości kofeiny w prowincji Guangdong, która sąsiaduje z Fujian. Jednak roślina ta należała do innego gatunku (*Camellia ptilophylla*) i stała się znana jako herbata kakaowa ze względu na wysoki poziom teobrominy, którą początkowo wykryto w ziarnach kakaowca (Theobroma cacao). Według Xiaorong Lin, naukowca zajmującego się żywnością, który bada związki zawarte w herbacie kakaowej na Południowochińskim Uniwersytecie Rolniczym w Guangzhou, „Herbata zrobiona z tego szczególnego gatunku herbaty o niskiej zawartości kofeiny jest sprzedawana w Chinach od dziesięcioleci”. Ale zauważa: „Jej wydajność jest ograniczona”[4]
 
 <p align="center">
-  <img alt="hyc-1" src="/assets/images/2022-07-11/hyc-2.png" width="400">
+  <img alt="hyc-1" src="/assets/images/2022-07-11/hyc-2.webp" width="400">
   <br>
     <em><i>Porównanie cech morfologicznych między Hongyacha (po lewej) i herbatą kakaową (po prawej): (A) omszenie pąków; (B) pofałdowanie krawędzi liści; (C) średnica kwiatu; (D) omszenie po zewnętrznej stronie działki kielicha. Reprinted with permission from J. Agric. Food Chem. 2018, 66, 43, 11311–11319. Copyright 2018 American Chemical Society</i></em>
 </p>

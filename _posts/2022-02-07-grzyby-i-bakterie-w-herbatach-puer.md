@@ -2,7 +2,7 @@
 layout: post
 title:  "Grzyby i bakterie w herbatach puer"
 categories: [Chemia herbaty]
-image: assets/images/micro-puer/puer-0.jpg
+image: assets/images/micro-puer/puer-0.webp
 tags: featured
 ---
 
@@ -18,7 +18,7 @@ Ale czy zastanawialiście się jak dużo jest grzybów i bakterii zarówno w got
  Naukowcy w Uniwersytetu w Shanxi za pomocą wysokosprawnego sekwencjonowania i ilościowej analiza metabolitów zidentyfikowali najbardziej rozpowszechnione grzyby i bakterii w tych herbatach. W sumie udało się zidentyfikować 390 grzybów i 629 bakterii, z nich 107 były obecne we wszystkich 3 rodzajach próbek (sheng, shu, świeże liście). 54% grzybów i 22% bakterii z świeżych liści były też obecne w obu typach herbat, więc można zrobić wniosek, że świeże liście są ważnych źródłem mikroorganizmów dla dojrzewania herbaty. Ciekawe jest też to, że 236 bakterii są unikalne dla shu puerów, zaś dla sheng jest to tylko 46. Jednak jeżeli przejrzymy się tylko najbardziej rozpowszechnionym bakteriom, to okaże się że herbaty się prawie nie różnią, 8 i 3 unikalne bakterie dla shu i sheng odpowiednio. Lepiej ode mnie o tym zależnościach opowiedzą diagramy, przedstawione poniżej.
 
 <p align="center">
-  <img alt="micro-puer-1" src="/assets/images/micro-puer/puer-1.jpg" width="400">
+  <img alt="micro-puer-1" src="/assets/images/micro-puer/puer-1.webp" width="400">
   <br>
     <em><i>Widma herbat z Anxi <a href='https://doi.org/10.1371/journal.pone.0157847'>@doi</a> </i></em>
 </p>
