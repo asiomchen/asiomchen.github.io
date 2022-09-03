@@ -21,23 +21,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  - jekyll-responsive-image
   
 authors:
-    sal:
+    anton:
       name:           Anton
       site:           
       avatar:         
       bio:            
       email:          antonoherbacie@gmail.com
-      twitter:        
-
-    jane:
-      name:           Jane
-      site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
-      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
-      email:          fakemail@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      twitter:
  
 # Defaults
 defaults:
@@ -68,6 +61,12 @@ paginate: 10
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
 
+responsive_image:
+  template: _includes/picture.html
+  sizes:
+    - width: 320
+    - width: 480
+    - width: 800
 
 reCaptcha:
     siteKey: 6Lc6TaIeAAAAAI6VigKRXSlBbQhOMRrEYGCCGtx3
