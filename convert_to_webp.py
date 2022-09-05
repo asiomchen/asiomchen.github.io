@@ -42,12 +42,17 @@ def responsible_image_resize(image_path):
     medium_img.save(image_path[:-4] + "_medium.webp", "webp")
     img.save(image_path[:-4] + "_large.webp", "webp")
 
+def resize_width(image_path, width):
+    img = Image.open(image_path)
+    height = int(width * img.size[1] / img.size[0])
+    img = img.resize((width, height), Image.ANTIALIAS)
+    img.save(image_path[:-4] + "_resized.webp", "webp")
 
 if __name__ == '__main__':
     # for each assets/images in the folder create large, medium and small versions
-    for file in os.listdir('assets/images/2022-07-11'):
+    for file in os.listdir('assets/images/anto'):
         if file.endswith('.webp'):
-            responsible_image_resize(os.path.join('assets/images/2022-07-11', file))
+            resize_width(os.path.join('assets/images/anto', file), 400)
 
 
 

@@ -11,13 +11,13 @@ Wraz z odmianami roślin herbacianych, których młode pędy mają jasnozielony 
 Antocyjany są najważniejszymi (obok karotenoidów i betalainów) pigmentami roślinnymi, szeroko rozpowszechnionymi w przyrodzie. Czerwone, fioletowe, różowe, niebieskie i granatowe kwiaty, dojrzałe owoce, kolory jesiennych liści – antocyjany są odpowiedzialne za to wszystko. Antocyjany są glikozydami, co oznacza, że ich cząsteczki składają się z części niewęglowodanowej (aglikonu) i reszty węglowodanowej, która może być reprezentowana przez mono-(glukozę, galaktozę, ramnozę), di - i trisacharydy; cząsteczki antocyjanów mogą zawierać inne fragmenty – na przykład reszty kwasu kawowego. Aglikony antocyjanów nazywane są antocyjanidynami i odnoszą się, podobnie jak katechiny, do flawonoidów u ich podstaw leży struktura 2-fenylobenzopiranu, którego część atomów wodoru w trzech pierścieniach można zastąpić grupami hydroksylowymi bądź metoksylowymi. Kolor barwnika zależy od liczby i rodzaju tych grup, ale możliwości palety antocyjanów nie są wyczerpane. Na kolor wpływają również inne części cząsteczki i odczyn środowiska (niektóre antocyjanidyny mają do 4 przejść kolorów w zależności od pH ośrodka), obecność jonów metali (glin, żelazo, magnez, molibden, wolfram). Dlatego kolorystyka kwiatów, owoców i liści jest tak różnorodna.
 
 <p align="center">
-  <img alt="anto-1" src="/assets/images/anto/anto-1.webp" width="400">
+  <img alt="anto-1" src="/assets/images/anto/anto-1._resized.webp" width="400">
   <br>
     <em><i>Struktura najważniejszych antocyjanidyn</i></em>
 </p>
 
 <p align="center">
-  <img alt="anto-2" src="/assets/images/anto/anto-2.webp" width="400">
+  <img alt="anto-2" src="/assets/images/anto/anto-1._resized.webp" width="400">
   <br>
     <em><i>Struktura wybranych antocyjanidyn i antocyjanów.</i></em>
 </p>
@@ -36,7 +36,7 @@ Zǐ Juān należy do rodzaju xiaoqiaomu - małego, prostego drzewa o dużych li�
 W przeciwieństwie do Zǐ Juān, nazwa Zǐ Yá (紫芽) - "purpurowe pąki" nie oznacza żadnej konkretnej odmiany, ale jest zwykle zbiorową nazwą dla wszystkich odmian purpurowej herbaty. W niektórych źródłach Zǐ Juān jest uwzględniany w koncepcji Zǐ Yá, w innych Zǐ Juān z jego wyjątkowo ciemnym kolorem jest kontrastowany z resztą Zǐ Yá, w których" dno herbaty " nie jest tak ciemne i bardziej barwne, a kolor naparu jest bliższy ciemnożółtemu, czasem z szarawym odcieniem.
 
 <p align="center">
-  <img alt="anto-3" src="/assets/images/anto/anto-3.webp" width="400">
+  <img alt="anto-3" src="/assets/images/anto/anto-1._resized.webp" width="400">
   <br>
     <em><i>Jedenaście odmian Zi Ya Cha. Wyraźnie widoczne są różnice w kształcie i ząbkowaniu liści. Na dwunastym kwadracie - "standardowa" zielona herbata dla porównania.</i></em>
 </p>
