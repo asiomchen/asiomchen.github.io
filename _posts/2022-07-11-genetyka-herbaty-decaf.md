@@ -10,20 +10,18 @@ Pomimo licznych prób naukowcy nie zastosowali jeszcze technik inżynierii genet
 
 <img
   sizes="(min-width: 40em) 80vw, 100vw"
-  srcset="/assets/images/2022-07-11/tea_from_cell_small.webp 375w,
-          /assets/images/2022-07-11/tea_from_cell_medium.webp 480w,
-          /assets/images/2022-07-11/tea_from_cell_large.webp 768w"
-  alt="<i>Sadzonka herbaty wyhodowana w laboratorium. Źródło: Tea Research Institute of Sri Lanka</i>">
+  srcset="/assets/images/2022-07-11/tea_from_cell._small.webp 200w,
+          /assets/images/2022-07-11/tea_from_cell._medium.webp 400w,
+          /assets/images/2022-07-11/tea_from_cell._large.webp 800w">
 
 Armatka genowa to metoda zachwycająca swą prostotą. Jest dosłownie armatką, tylko z bardzo małymi pociskami. Pył, którym strzela w komórki, to cząsteczki metali ciężkich (wolframu, złota lub srebra) pokryte materiałem genetycznym, plazmidowym DNA, który chcemy wprowadzić do komórki. Niektóre komórki ulegają zniszczeniu i obumierają, ale niektóre przechodzą transformację – obcy DNA integruje się z jądrem lub organellami komórek i zaczyna funkcjonować. Metoda ta, w większości przypadków, jest używana do modyfikacji roślin choć może też zostać np. użyta do dostarczania DNA szczepionek dla ludzi.
 
 <p>
 <img
   sizes="(min-width: 40em) 80vw, 100vw"
-  srcset="/assets/images/2022-07-11/Gene_Gun_small.webp 375w,
-          /assets/images/2022-07-11/Gene_Gun_medium.webp 480w,
-          /assets/images/2022-07-11/Gene_Gun_large.webp 768w"
-  alt="armatka</i>">
+  srcset="/assets/images/2022-07-11/Gene_Gun._small.webp 298w,
+          /assets/images/2022-07-11/Gene_Gun._medium.webp 597w,
+          /assets/images/2022-07-11/Gene_Gun._large.webp 1195w">
 <br>
     <em><i>Schemat działania armatki genowej. Źródło: By RachelBrooks15 - Own work, CC BY-SA 4.0, <a href='https://commons.wikimedia.org/w/index.php?curid=40535573'>@wiki</a>  </i></em>
 </p>
