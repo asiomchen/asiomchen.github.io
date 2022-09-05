@@ -2,7 +2,7 @@
 layout: post
 title:  "Genetyka herbaty: herbata bezkofeinowa"
 categories: [Genetyka herbaty]
-image: assets/images/2022-07-11/title._medium.webp
+image: assets/images/2022-07-11/title.webp
 tags: featured
 ---
 
