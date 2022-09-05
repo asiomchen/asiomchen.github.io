@@ -10,6 +10,7 @@ Pomimo licznych prób naukowcy nie zastosowali jeszcze technik inżynierii genet
 
 <img
   sizes="(min-width: 40em) 80vw, 100vw"
+    src="/assets/images/2022-07-11/tea_from_cell._small.webp"
   srcset="/assets/images/2022-07-11/tea_from_cell._small.webp 200w,
           /assets/images/2022-07-11/tea_from_cell._medium.webp 400w,
           /assets/images/2022-07-11/tea_from_cell._large.webp 800w">
@@ -19,6 +20,7 @@ Armatka genowa to metoda zachwycająca swą prostotą. Jest dosłownie armatką,
 <p>
 <img
   sizes="(min-width: 40em) 80vw, 100vw"
+    src="/assets/images/2022-07-11/Gene_Gun._small.webp"
   srcset="/assets/images/2022-07-11/Gene_Gun._small.webp 298w,
           /assets/images/2022-07-11/Gene_Gun._medium.webp 597w,
           /assets/images/2022-07-11/Gene_Gun._large.webp 1195w">
