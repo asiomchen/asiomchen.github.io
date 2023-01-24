@@ -18,4 +18,4 @@ Okazało się, że pył z zielonej herbaty w stężeniu 50g/L potrafi zmniejszy�
 Jest to bardzo ciekawy sposób na utylizację odpadów przemysłu herbacianego, inny niż pakowanie tego pyłu do torebek.
 
 Źródło:
-Wang, W.; Wang, H.; Wu, Z.; Duan, T.; Liu, P.; Ou, S.; El-Nezami, H.; Zheng, J. Reduction in Five Harmful Substances in Fried Potato Chips by Pre-Soaking Treatment with Different Tea Extracts. Foods 2023, 12, 321. https://doi.org/10.3390/foods12020321
+Wang, W.; Wang, H.; Wu, Z.; Duan, T.; Liu, P.; Ou, S.; El-Nezami, H.; Zheng, J. Reduction in Five Harmful Substances in Fried Potato Chips by Pre-Soaking Treatment with Different Tea Extracts. Foods 2023, 12, 321. [doi](https://doi.org/10.3390/foods12020321)
