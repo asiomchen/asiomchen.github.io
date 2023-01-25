@@ -3,7 +3,7 @@ layout: post
 title:  "Ekstrakt z herbaty w produkcji chipsów"
 categories: [Artykuły naukowe]
 image: assets/images/2023-01-24/crisp.webp
-tags: featured
+tags:
 ---
 W czasopiśmie Foods, należącym do wydawnictwa MDPI, w styczniu 2023 został opublikowany artykuł, w którym autorzy badają wpływ ekstraktów różnych herbat na ilość szkodliwych substancji w chipsach.
 
