@@ -3,7 +3,7 @@ layout: post
 title:  "Wpływ palenia na herbatę skalną"
 categories: [Artykuły naukowe]
 image: assets/images/2023-02-05/wuyi_1.webp
-tags: palenie, herbaty skalne, wuyi, aromat, smak, Maillard, yancha
+tags: palenie herbaty-skalne wuyi aromat smak Maillard yancha
 ---
 
 Oolongi skalne z gór Wuyi są bardzo popularne wśród herbaciarzy, ze względu na swój intensywny wszestronny aromat, który w dużym stopniu pochodzi z procesu palenia, często kilku stopniowego. Cały proces produkcji tych herbat jest pełen ciekawostek ( jak również i mitów), ale tu lepiej ode mnie już wszytko opisał [Konrad Pociask](https://eherbata.pl/blog/skalne-herbaty-z-gor-wuyi-288.html), ale ja chiałbym powiedzić kilka słow o paleniu.
