@@ -1,5 +1,6 @@
 from PIL import Image
 import os
+import sys
 
 # convert all images in a folder to webp format
 def convert_to_webp(folder):
@@ -49,10 +50,9 @@ def resize_width(image_path, width):
     img.save(image_path[:-4] + "_resized.webp", "webp")
 
 if __name__ == '__main__':
+    folder = sys.argv[1]
     # for each assets/images in the folder create large, medium and small versions
-    for file in os.listdir('assets/images/anto'):
-        if file.endswith('.webp'):
-            resize_width(os.path.join('assets/images/anto', file), 400)
+    convert_to_webp(folder)
 
 
 
