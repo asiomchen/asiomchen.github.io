@@ -14,7 +14,7 @@ Autorzy prowadzili badania na połu herbacianym w Anxi (kultywar - Tieguanyin), 
 
 Ciekawy jest też, że taka suplementacja zwiększa o około 13% gęstość pąków na krzewach herbacianych - mechanizm tego zjawiska nie jest do końca jasny, ale prawdopodobnie jest związany z regulacją hormonów (stosunku kwas 3-indooctowego do kwasu abscysynowego).
 
-Ma to też pozytywny wpływ na środowisko - azot jest efektywniej wykorzystywany, zmniejsza się wydzielanie tlenku azotu(I)(tu autorzy używają modelu matematycznego, zamiast danych praktycznych, jednak modele te dość dobrze opisują procesy). Uwzględnienie stężenia magnezu do uprawy herbaty może zatem być jedną z podstaw zrównoważonej produkcji herbaty,  
+Ma to też pozytywny wpływ na środowisko - azot jest efektywniej wykorzystywany, zmniejsza się wydzielanie tlenku azotu(I)(tu autorzy używają modelu matematycznego, zamiast danych praktycznych, jednak modele te dość dobrze opisują procesy). Uwzględnienie stężenia magnezu do uprawy herbaty może zatem być jedną z podstaw zrównoważonej produkcji herbaty.  
 
 [Źródło](https://doi.org/10.1016/j.scienta.2022.111590)
 
