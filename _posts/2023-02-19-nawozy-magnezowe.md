@@ -8,7 +8,7 @@ tags: 2023 magnez herbaty Scientia-Horticulturae
 
 Kiedy mówimy o użyciu nawozów w rolnictwie, w tym produkcji herbaty, to najczęściej przychodzą do głowy nawozy azotowe, które rzeczywiście są najbardziej wykorzystywaną grupą. Pozwalają zwiększyć płony, efektywniej używać teren. Jednak nie brakuję i efektów negatywnych - pogarsza się smak produktów, nadużycie prowadzi do wydzielania tlenku azotu(I), który jest gazem cieplarnianym. 
 
-Ale wracając do herbaty, w Scientia Horticulturae został opublikowany artykuł o ważności magnezu w uprawie herbaty. Magnez bierze udział w syntezie cukrów i lipidów, kontroli hormonów roślinnych, jest niezbędnym elementem chlorofilu - ważnego pigmentu roślinnego, biorącego udział w procesie fotosyntezy, a dodatkowo wpływa też na wchłanianie innych pierwiastków, m.in. azotu i potasu.
+W Scientia Horticulturae został opublikowany artykuł o ważności magnezu w uprawie herbaty. Magnez bierze udział w syntezie cukrów i lipidów, kontroli hormonów roślinnych, jest niezbędnym elementem chlorofilu - ważnego pigmentu roślinnego, biorącego udział w procesie fotosyntezy, a dodatkowo wpływa też na wchłanianie innych pierwiastków, m.in. azotu i potasu.
 
 Autorzy prowadzili badania na połu herbacianym w Anxi (kultywar - Tieguanyin), stosując różne dawki magnezu. Okazało się, że użycie magnezu, istotnie zwiększa wchłanianie azotu, większa dostępność azotu też podwyższa stężenie wolnych aminokwasów w herbacie (średnio o około 14%) wraz z tym prawie nie wpływając na zawartość polifenoli, polepszając smak herbaty. 
 
