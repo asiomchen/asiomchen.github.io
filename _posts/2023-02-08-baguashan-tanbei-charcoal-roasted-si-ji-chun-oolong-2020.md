@@ -16,20 +16,20 @@ Nietypowy oolong, które przeszedł przez mocniejsze utlenianie oraz prażenie n
 
 
 <p align="center">
-  <img alt="sucha herbata" src="assets/images/2023/02/08/tea.webp" width="600">
+  <img alt="sucha herbata" src="/assets/images/2023/02/08/tea.webp" width="600">
   <br>
     <em><i>Sucha herbata </i></em>
 </p>
 
 Pierwsze parzenia jest nieco mniej intensywne, ale już bardzo słodki i trochę korzenny - w sam raz na zimowe wieczory
 <p align="center">
-  <img alt="sucha herbata" src="assets/images/2023/02/08/soup_1.webp" width="600">
+  <img alt="pierwsze parzenie" src="/assets/images/2023/02/08/soup_1.webp" width="600">
   <br>
     <em><i>Pierwsze parzenie </i></em>
 </p>
 Drugie parzenia jeszcze bardziej słodkie, słodycz pozostaje też w aromacie pustej czarki, nutu korzenne ciut zanikają, pojawi się przyjemna łaska wanilii
 <p align="center">
-  <img alt="sucha herbata" src="assets/images/2023/02/08/soup_2.webp" width="600">
+  <img alt="drugie parzenie" src="/assets/images/2023/02/08/soup_2.webp" width="600">
   <br>
     <em><i>Drugie parzenie </i></em>
 </p>
