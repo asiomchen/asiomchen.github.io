@@ -14,6 +14,7 @@ Odmiana krzewu: *Si Ji Chun*
 
 Nietypowy oolong, które przeszedł przez mocniejsze utlenianie oraz prażenie nad węglem.
 
+
 <p align="center">
   <img alt="sucha herbata" src="assets/images/2023/02/08/tea.webp" width="600">
   <br>
