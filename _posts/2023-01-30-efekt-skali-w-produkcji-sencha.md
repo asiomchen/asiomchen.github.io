@@ -3,7 +3,7 @@ layout: post
 title:  "Efekt skali w produkcji sencha"
 categories: [Artykuły naukowe]
 image: assets/images/2023-01-30/title.webp
-tags:
+tags: 2022
 ---
 Mechanizacja produkcji sencha w Japonii zaczęła się w 20 latach 20 wieku. A już w latach 60 systemy, usprawniające produkcję herbaty, już były dość często używane.
 

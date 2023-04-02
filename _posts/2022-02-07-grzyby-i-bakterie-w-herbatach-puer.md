@@ -3,7 +3,7 @@ layout: post
 title:  "Grzyby i bakterie w herbatach puer"
 categories: [Chemia herbaty]
 image: assets/images/micro-puer/puer-0.webp
-tags: featured
+tags: featured plos 2016 grzyby bakterie puer
 ---
 
 
@@ -20,7 +20,7 @@ Ale czy zastanawialiście się jak dużo jest grzybów i bakterii zarówno w got
 <p align="center">
   <img alt="micro-puer-1" src="/assets/images/micro-puer/puer-1.webp" width="400">
   <br>
-    <em><i>Widma herbat z Anxi <a href='https://doi.org/10.1371/journal.pone.0157847'>@doi</a> </i></em>
+    <em><i>Diagramy Venna dla mikrobiomu różnych herbat puer <a href='https://doi.org/10.1371/journal.pone.0157847'>@doi</a> </i></em>
 </p>
 
 Dodatkowo warto wspomnieć, że obecność liści krzewu herbacinego była w tym badaniu stwierdzana przez identyfikację  genu rbcL, który odpowiada enzymu RuBisCO (najbardziej rozpowszechniony enzym na Ziemi, odpowiadający za wiązanie dwutlenku węgla przez rośliny). W przypadku shu puerów została wykryta również obecność rbcL banana, sosny oraz kapusty. 
