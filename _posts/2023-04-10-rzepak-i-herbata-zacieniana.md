@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rzepak i herbata zacieniana - barassinosteroidy"
+title:  "Rzepak i herbata zacieniana - brassinosteroidy"
 categories: [Artykuły naukowe]
 image: assets/images/2023/04/10/title_brassica.webp
 tags: featured gyokuro matcha
@@ -11,7 +11,7 @@ Jednak jest mały problem, żeby przetrwać, krzew herbaciany próbuje zwiększy
 
 ![rzepak](/assets/images/2023/04/10/brassica_2.webp)
 
-Potencjalnie zastosowanie hormonów roślinnych może pomóc zwiększyć płony bez pogorszenia smaku. Wśród 6 grup hormonów roślinnych, najczęściej wspominane są jasmonidy oraz auksyny, jednak istnieją też roślinne odpowiedniki hormonów sterydowych - barassinosteroidy,  które zostały po raz pierwszy wyizolowane z pyłku rzepakowego stąd nazwa. Nawet bardzo małej ilości tego związku wystarczy żeby pojawił się efekt -  z 230 kg pyłku da się wyekstrahować zaledwie 10 mg. Tak samo jak steroidy człowieka,  barassinosteroidy mają bardzo szerokie spektrum działań - mogą zwiększać odporność na niską temperaturę, choroby wirusowe, regulują podziały komórkowe. 
+Potencjalnie zastosowanie hormonów roślinnych może pomóc zwiększyć płony bez pogorszenia smaku. Wśród 6 grup hormonów roślinnych, najczęściej wspominane są jasmonidy oraz auksyny, jednak istnieją też roślinne odpowiedniki hormonów sterydowych - brassinosteroidy,  które zostały po raz pierwszy wyizolowane z pyłku rzepakowego stąd nazwa. Nawet bardzo małej ilości tego związku wystarczy żeby pojawił się efekt -  z 230 kg pyłku da się wyekstrahować zaledwie 10 mg. Tak samo jak steroidy człowieka,  brassinosteroidy mają bardzo szerokie spektrum działań - mogą zwiększać odporność na niską temperaturę, choroby wirusowe, regulują podziały komórkowe. 
 
 Chińscy naukowcy postanowili sprawdzić czy zastosowanie takich związków wpłynie na produkcję zacienianej herbaty. Do porównanie został wybrany dość nietypowy kultywar - tajwański Jin Xuan, zwykle używany do produkcji oolongów. Przez 2 tygodnie 90% światła było odcinane, a codziennie krzewy były pryskane roztworem brassinolidu, jako kontroli użyto krzewów niezacienianych oraz zacienianych bez pryskania steroidem. 
 
