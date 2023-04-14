@@ -23,3 +23,4 @@ W przyszłości zastosowanie syntetycznych i naturalnych brassinosteroidów oraz
 
 
 [Żródło](https://doi.org/10.1016/j.foodchem.2022.134969)
+{: .umami--click--source-link}
