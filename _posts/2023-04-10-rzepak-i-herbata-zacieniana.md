@@ -22,5 +22,4 @@ Do porównanie zbierano pąk i dwa liście, herbatę produkowano w sposób chiń
 W przyszłości zastosowanie syntetycznych i naturalnych brassinosteroidów oraz dobór odpowiedniego bilansu pomiędzy procentem zacieniania, a wielkością plonów mogą być kluczowe w rozpowszechnianiu zacieniania, jako skutecznej metody polepszania jakości herbaty. 
 
 
-[Żródło](https://doi.org/10.1016/j.foodchem.2022.134969)
-{: .umami--click--source-link}
+[Żródło](https://doi.org/10.1016/j.foodchem.2022.134969){:.umami--click--source-link}

@@ -17,4 +17,4 @@ Autorzy wybrali 6 rożnych herbat ciemnych, w tym puer i liubao, do herbat dodan
 
 A co z zaparzeniem wodą? Niestety autorzy używają parzenia niezbyt zbliżonego do parzenia np. w gaiwanie, ale i z tego da się wyciągnąć ciekawe wnioski. Przy parzeniu 5 gramów herbaty w 250 ml wody przez 5 minut da się wyekstrahować 2.94% dodanego związku, a najważniejsze, że aflatoksyna była wykryta tylko w pierwszym parzeniu. Wniosek jest ten sam warto przepłukać herbatę przed parzeniem, autorzy również sugerują, że duże powinowactwo liści herbaty do aflatoksyny może być podstawą do dalszych badań z użyciem herbaty jako absorbenta toksyn.
 
-[Żródło](https://doi.org/10.1016/j.foodchem.2022.134969)
+[Żródło](https://doi.org/10.1016/j.foodchem.2022.134969){:.umami--click--source-link}

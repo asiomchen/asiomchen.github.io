@@ -31,4 +31,4 @@ Tylko cena bardzo się różni,  te z Taobao kosztują około 58 USD, zaś te z 
 
 
 
-Zdjęcie tytułowe : [taobao](https://item.taobao.com/item.htm?spm=a1z0k.7628869.0.0.7d7e37deoiP31f&id=620789303567&_u=t2dmg8j26111)
+Zdjęcie tytułowe : [taobao](https://item.taobao.com/item.htm?spm=a1z0k.7628869.0.0.7d7e37deoiP31f&id=620789303567&_u=t2dmg8j26111){:.umami--click--source-link}
