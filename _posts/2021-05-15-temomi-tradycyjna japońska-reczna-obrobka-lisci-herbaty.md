@@ -71,11 +71,11 @@ Gotowa herbata jest oceniana w 50-punktowej skali według pięciu parametrów: k
 Oto świetny film o takim konkursie z napisami w języku angielskim: [Youtube](https://www.youtube.com/watch?v=V0Z2xCzJBVY) . I kolejny film, zaczynając od zbierania liści herbaty: [Youtube](https://www.youtube.com/watch?v=D25I81Jv1Iw)
 
 Źródła: 
-[[1]](https://teamona.com/temomi-tea-rolling-by-hand/), 
-[[2]](https://teainspoons.com/2019/04/25/jp-hand-picking-hand-rolling/),
-[[3]](https://www.myjapanesegreentea.com/temomi-rolling-tea-by-hand),
-[[4]](https://teamona.com/temomi-competition/),
-[[5]](https://teamona.com/national-japanese-tea-hand-rolling-competition/)
+[[1]](https://teamona.com/temomi-tea-rolling-by-hand/){:.umami--click--source-link}, 
+[[2]](https://teainspoons.com/2019/04/25/jp-hand-picking-hand-rolling/){:.umami--click--source-link},
+[[3]](https://www.myjapanesegreentea.com/temomi-rolling-tea-by-hand){:.umami--click--source-link},
+[[4]](https://teamona.com/temomi-competition/){:.umami--click--source-link},
+[[5]](https://teamona.com/national-japanese-tea-hand-rolling-competition/){:.umami--click--source-link}
 
 Źródło:
 [Herbaciarnia "Sowa i panda"](https://vk.com/club47905050)

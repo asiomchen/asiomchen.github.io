@@ -19,6 +19,6 @@ Taka różnica może być wynikiem różnicy w stopniu uszkodzenia liści, i mim
 
 
 
-[Źródło](https://doi.org/10.1111/jfpe.14185)
+[Źródło](https://doi.org/10.1111/jfpe.14185){:.umami--click--source-link}
 
-[Zdjęcie tytułowe](https://www.theworldfolio.com/news/kawasaki-kiko-tea-ma/4516/)
+[Zdjęcie tytułowe](https://www.theworldfolio.com/news/kawasaki-kiko-tea-ma/4516/){:.umami--click--source-link}

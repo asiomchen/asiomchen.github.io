@@ -6,7 +6,7 @@ image: assets/images/2023-02-05/wuyi_1.webp
 tags: palenie herbaty-skalne wuyi aromat smak Maillard yancha
 ---
 
-Oolongi skalne z gór Wuyi są bardzo popularne wśród herbaciarzy, ze względu na swój intensywny wszestronny aromat, który w dużym stopniu pochodzi z procesu palenia, często kilku stopniowego. Cały proces produkcji tych herbat jest pełen ciekawostek ( jak również i mitów), ale tu lepiej ode mnie już wszytko opisał [Konrad Pociask](https://eherbata.pl/blog/skalne-herbaty-z-gor-wuyi-288.html), ale ja chiałbym powiedzić kilka słow o paleniu.
+Oolongi skalne z gór Wuyi są bardzo popularne wśród herbaciarzy, ze względu na swój intensywny wszestronny aromat, który w dużym stopniu pochodzi z procesu palenia, często kilku stopniowego. Cały proces produkcji tych herbat jest pełen ciekawostek ( jak również i mitów), ale tu lepiej ode mnie już wszytko opisał [Konrad Pociask](https://eherbata.pl/blog/skalne-herbaty-z-gor-wuyi-288.html){:.umami--click--source-link}, ale ja chiałbym powiedzić kilka słow o paleniu.
 
 Palenie jest ważnym etapem w produkcji herbat skalnych, ponieważ może polepszyć profil smakowy herbaty. W niedawnym badaniu, opublikowanym w Journal of Food Composition and Analysis, naukowcy zbadali związki powstające podczas procesu palenia i ich wpływ na smak herbaty. Zostały porównane liście z  20-letnich roślin trzech kultywarów - Dahongpao, Shuixian, and Rougui, w wersji niepalonej, lekko palonej (120 ℃), średnio palonej (130 ℃) oraz mocno palonej (140 ℃) przez 5 godzin. Warto zaznaczyć, że było to “palenie” gorącym powietrzem w celu zapewnienia maksymalnej neutralności, choć w rzeczywistej produkcji do palenia jest używany węgiel i palenie jest dłuższe, ale wciąż niektóre wnioski tego badania są ciekawe.
 
@@ -19,7 +19,7 @@ Na podstawie analizy powstających związków można efektywnie odróżnić herb
 
 Autorzy mają nadzieję, że analiza stężeń powstających związków może w przyszłości być używana do optymalizacji palenie herbaty skalnej w sposób pozwalający podkreślić walory smakowe użytego kultywaru.
 
-[Żródło](https://doi.org/10.1016/j.jfca.2022.104954)
+[Żródło](https://doi.org/10.1016/j.jfca.2022.104954){:.umami--click--source-link}
 
 
 

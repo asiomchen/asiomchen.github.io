@@ -57,11 +57,11 @@ Kilkadziesiąt lat temu Hung-ta Chang, botanik z Sun Yat-sen University w Guangz
 
 Hongyacha może wypełnić ogromną lukę na rynku, ponieważ jest to prawdziwa herbata, zawiera te same związki, które nadają herbacie z kofeiną jej smak. Biorąc pod uwagę potencjalne zastosowania komercyjne hongyacha, Liang Chen mówi, że planuje albo rozmnażać dziką herbatę, albo wprowadzać mutację do istniejących odmian herbaty przy użyciu klasycznych technik hodowlanych.
 
-[Na podstawie](https://www.nature.com/articles/d41586-019-00400-w)
+[Na podstawie](https://www.nature.com/articles/d41586-019-00400-w){:.umami--click--source-link}
 
-[[1]](https://doi.org/10.1073/pnas.1419685112)
-[[2]](https://link.springer.com/article/10.1007/s11103-019-00913-y)
-[[3]](http://dx.doi.org/10.1080/15422119.2013.771127)
-[[4]](https://doi.org/10.1021/acs.jafc.8b03433)
+[[1]](https://doi.org/10.1073/pnas.1419685112){:.umami--click--source-link}
+[[2]](https://link.springer.com/article/10.1007/s11103-019-00913-y){:.umami--click--source-link}
+[[3]](http://dx.doi.org/10.1080/15422119.2013.771127){:.umami--click--source-link}
+[[4]](https://doi.org/10.1021/acs.jafc.8b03433){:.umami--click--source-link}
 
-Zdjęcie tytułowe : [yunnan sourcing](https://yunnansourcing.com/collections/dan-cong-oolong-tea-spring-2022/products/wu-dong-chou-shi-dan-cong-oolong-tea)
+Zdjęcie tytułowe : [yunnan sourcing](https://yunnansourcing.com/collections/dan-cong-oolong-tea-spring-2022/products/wu-dong-chou-shi-dan-cong-oolong-tea){:.umami--click--source-link}

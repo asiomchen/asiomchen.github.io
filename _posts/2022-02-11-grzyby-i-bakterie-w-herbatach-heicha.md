@@ -37,6 +37,6 @@ Tak więc zaledwie jeden szczep grzyba może mocno zmienić wpływ herbaty na or
 
 
 Źródła:
-[[1]](https://doi.org/10.1016/j.tifs.2021.12.024),
-[[2]](https://doi.org/10.1016/j.tifs.2021.01.030)
+[[1]](https://doi.org/10.1016/j.tifs.2021.12.024){:.umami--click--source-link},
+[[2]](https://doi.org/10.1016/j.tifs.2021.01.030){:.umami--click--source-link}
 Zdjęcia: Taobao

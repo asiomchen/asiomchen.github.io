@@ -16,7 +16,7 @@ Ciekawy jest też, że taka suplementacja zwiększa o około 13% gęstość pąk
 
 Ma to też pozytywny wpływ na środowisko - azot jest efektywniej wykorzystywany, zmniejsza się wydzielanie tlenku azotu(I)(tu autorzy używają modelu matematycznego, zamiast danych praktycznych, jednak modele te dość dobrze opisują procesy). Uwzględnienie stężenia magnezu do uprawy herbaty może zatem być jedną z podstaw zrównoważonej produkcji herbaty.  
 
-[Źródło](https://doi.org/10.1016/j.scienta.2022.111590)
+[Źródło](https://doi.org/10.1016/j.scienta.2022.111590){:.umami--click--source-link}
 
 
 

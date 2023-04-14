@@ -11,7 +11,7 @@ Zacznę od czasu do czasu publikować moje opinię o różnych herbatach, przy t
 Dla każdej z hebata będę podawał takie parametry jak: naczynie, ilość herbaty, woda, temperatura, płukanie, czasy parzenia, ocena.
 
 Zmienne wspólne dla wszystkich herbat prezentują się tak:
-- Naczynie - houhin [Andrzeja Bero](https://www.instagram.com/andrzejbero/) **90ml**
+- Naczynie - houhin [Andrzeja Bero](https://www.instagram.com/andrzejbero/){:.umami--click--source-link} **90ml**
 - Woda - kranówka po dzbanku *Aquaphor*
 - Płukanie - mała porcja wrzątku, natychmiast wylewana
 
