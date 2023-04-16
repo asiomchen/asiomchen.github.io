@@ -37,7 +37,7 @@ Od trzeciego parzenia smak się stabilizuje, słodycz jest zachowana, do nut kor
 
 Szóste parzenia wciąż smakuje herbatą, można pić bardzo przyjemnie.
 
-Ocena: **8.5**
+Ocena: **8.5/10**
 
 
 
