@@ -42,7 +42,7 @@ W następnych parzeniach jest delikatna, ale stabilnie przyjemna. Od 4 parzenia 
 <p align="center">
   <img alt="piąte parzenie" src="/assets/images/2023/04/16/3.webp" width="700">
   <br>
-    <em><i>Trzecie parzenie </i></em>
+    <em><i>Piąte parzenie </i></em>
 </p>
 Będzie fajna dla wielbicieli herbat lekko prażonych, choć dla mnie byłaby chyba fajniejsza w wersji nieprażonej lub bardziej prażonej.
 
