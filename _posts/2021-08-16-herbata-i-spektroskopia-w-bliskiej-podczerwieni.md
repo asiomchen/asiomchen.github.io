@@ -45,11 +45,11 @@ W innej podobnej pracy zbadano możliwości rozgraniczenia za pomocą spektrosko
 Ale i o jakości też można się dowiedzieć z zastosowaniem spektroskopii - japońska zielona herbata uszeregowana przez naukowców z Uniwersytetu Tokijskigo  według jakości w konkursie herbacianym z użyciem spektroskopii FT-NIR, analizy głównych składowych i metody częściowych najmniejszych kwadratów znaną także pod nazwą projekcje na zmienne ukryte (z ang. projections to latent structures). Okazało się, że obszar absorpcji 1800-1925 nm ma wysoką korelację z jakością herbaty.
 
 Źródła:
-[[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4099165/){:.umami--click--source-link},
-[[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5762236/){:.umami--click--source-link},
-[[3]](https://pubmed.ncbi.nlm.nih.gov/25208385/){:.umami--click--source-link},
-[[4]](https://pubmed.ncbi.nlm.nih.gov/19155188/){:.umami--click--source-link},
-[[5]](https://pubmed.ncbi.nlm.nih.gov/17973445/){:.umami--click--source-link}
+[[1]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4099165/){:data-umami-event="Source link click"},
+[[2]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5762236/){:data-umami-event="Source link click"},
+[[3]](https://pubmed.ncbi.nlm.nih.gov/25208385/){:data-umami-event="Source link click"},
+[[4]](https://pubmed.ncbi.nlm.nih.gov/19155188/){:data-umami-event="Source link click"},
+[[5]](https://pubmed.ncbi.nlm.nih.gov/17973445/){:data-umami-event="Source link click"}
 
 Źródło:
-[Herbaciarnia "Sowa i panda"](https://cutt.ly/MQZDZgy){:.umami--click--source-link}
+[Herbaciarnia "Sowa i panda"](https://cutt.ly/MQZDZgy){:data-umami-event="Source link click"}

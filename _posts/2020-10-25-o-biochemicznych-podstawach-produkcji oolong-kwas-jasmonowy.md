@@ -42,4 +42,4 @@ Aktywacja naturalnych reakcji obronnych za pomocą metod technologicznych jest o
 [5](https://pubmed.ncbi.nlm.nih.gov/31125230/)
 
 
-Źródło: [Herbaciarnia „Sowa i panda”](https://vk.com/club47905050)
+Źródło: [Herbaciarnia „Sowa i panda”](https://vk.com/club47905050){:data-umami-event="Source link click"}

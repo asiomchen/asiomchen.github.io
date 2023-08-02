@@ -52,4 +52,4 @@ Innym terminem jest Zǐ Jiān (紫尖), "purpurowe końcówki" odnosi się zwykl
 Oprócz purpurowych herbat z Yunnan istnieje kultywar Fujian Hóng Yá fóshǒu (红芽佛手) - "dłonie Buddy z czerwonym pąkiem", a także szereg innych czerwolistych herbat z Fujian; Tái Xiāng Zǐ (苔香紫) w Zhejiang; purpurowe Ninghun; itp.
 
 Źródło:
-[Herbaciarnia „Sowa i panda”](https://vk.com/club47905050)
+[Herbaciarnia „Sowa i panda”](https://vk.com/club47905050){:data-umami-event="Source link click"}

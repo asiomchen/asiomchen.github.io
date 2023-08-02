@@ -51,4 +51,4 @@ Wnioski: podczas ataku zielonych cykad, wraz z aktywacją enzymów rośliny herb
 [[3]](https://pubmed.ncbi.nlm.nih.gov/28764007/){:.umami--click--source-link}
 
 
-Źródło: [Herbaciarnia „Sowa i panda”](https://vk.com/club47905050){:.umami--click--source-link}
+Źródło: [Herbaciarnia „Sowa i panda”](https://vk.com/club47905050){:data-umami-event="Source link click"}

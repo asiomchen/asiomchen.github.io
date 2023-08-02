@@ -78,4 +78,4 @@ Oto świetny film o takim konkursie z napisami w języku angielskim: [Youtube](h
 [[5]](https://teamona.com/national-japanese-tea-hand-rolling-competition/){:.umami--click--source-link}
 
 Źródło:
-[Herbaciarnia "Sowa i panda"](https://vk.com/club47905050)
+[Herbaciarnia "Sowa i panda"](https://vk.com/club47905050){:data-umami-event="Source link click"}

@@ -66,4 +66,4 @@ Po drugie, chciałem przypomnieć, że oprócz świata, w którym ludzie wolą n
 [Analiza proteomiczna](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3162873/)
 [Analiza metabolowa](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4622044)
   
-Źródło: [Herbaciarnia „Sowa i panda”](https://vk.com/club47905050)
+Źródło: [Herbaciarnia „Sowa i panda”](https://vk.com/club47905050){:data-umami-event="Source link click"}

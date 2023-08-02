@@ -49,8 +49,8 @@ Flawonole to kolejna grupa polifenoli herbacianych, które stanowią od 2% do 3%
 
 
 Źródła:
-[[1]](https://doi.org/10.1111/j.1365-2621.2004.tb09894.x){:.umami--click--source-link},
-[[2]](https://doi.org/10.1016/S0260-8774(00)00069-8){:.umami--click--source-link},
-[[3]](https://doi.org/10.2754/avb201483S10S103){:.umami--click--source-link}
+[[1]](https://doi.org/10.1111/j.1365-2621.2004.tb09894.x){:data-umami-event="Source link click"},
+[[2]](https://doi.org/10.1016/S0260-8774(00)00069-8){:data-umami-event="Source link click"},
+[[3]](https://doi.org/10.2754/avb201483S10S103){:data-umami-event="Source link click"}
 
-Zdjęcie tytułowe : [yunnan sourcing](https://yunnansourcing.com/collections/green-tea-spring-2022/products/yunnan-zhu-ye-qing-green-tea){:.umami--click--source-link}
+Zdjęcie tytułowe : [yunnan sourcing](https://yunnansourcing.com/collections/green-tea-spring-2022/products/yunnan-zhu-ye-qing-green-tea){:data-umami-event="Source link click"}
