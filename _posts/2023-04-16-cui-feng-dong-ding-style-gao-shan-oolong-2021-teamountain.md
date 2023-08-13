@@ -7,7 +7,7 @@ tags: recenzje oolong teamountain
 ---
 Jak tylko jestem w Pradze, prawie pierwsze miejsce herbaciane do którego zmierzam to teamountain - współczesne wnętrze, dobry wybór oolongów, japońskich herbat zielonych czy też heicha. Jako że oni sprzedają większość herbat od 50g, a wysyłka do Polski w sumie nie jest droga i ceny przystępne, to stwierdziłem, że recenzję ich herbat mogą być pomocne.
 
-[Cui Feng Dong Ding Style Gao Shan Oolong - 2021](https://www.teamountain.cz/produkt/li-qi-lai-charcoal-roasted-chin-shin-oolong/){:data-umami-event="{Tea link click}"}
+[Cui Feng Dong Ding Style Gao Shan Oolong - 2021](https://www.teamountain.cz/produkt/li-qi-lai-charcoal-roasted-chin-shin-oolong/){:data-umami-event="Tea link click"}
 
 Pochodzenie: **Cui Feng, Nantou**
 
