@@ -2,7 +2,7 @@
 layout: post
 title:  "Matcha Pokemon – Polteageist"
 categories: [Inne]
-image: assets/images/2023/09/08/pokemon_title.png_
+image: assets/images/2023/09/08/pokemon_title.png
 tags: featured matcha
 ---
 
