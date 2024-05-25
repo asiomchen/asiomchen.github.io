@@ -3,7 +3,7 @@ layout: post
 title:  "Ceny czajniczków yixing - Yinchen Studio"
 categories: [Yixing]
 image: assets/images/2023/02/26/pot_2_cn.webp
-tags: featured yixing yinchen-studio czajniczki ceny
+tags: yixing yinchen-studio czajniczki ceny
 ---
 
 Siłą rzeczy przez kilka ostatnich miesięcy czytałem dużo o czajniczkach yixing -  rodzajach gliny, metodach produkcji etc. Przez to również dużo czasu spędziłem na stronach, sprzedających takie czajniczki, i chciałbym się podzielić tym, co znalazłem.

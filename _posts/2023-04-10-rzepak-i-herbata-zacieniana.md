@@ -3,7 +3,7 @@ layout: post
 title:  "Rzepak i herbata zacieniana - brassinosteroidy"
 categories: [Artykuły naukowe]
 image: assets/images/2023/04/10/title_brassica.webp
-tags: featured gyokuro matcha
+tags: gyokuro matcha
 ---
 Mówiąc o herbatach japońskich i ich wyjątkowym smaku często się wspomina o procesie zacienienia. Jest to niezbędny etap produkcji takich herbat jak gyokuro czy matcha. Kilka tygodni przed zbiorami do 90% światła docierającego do roślin jest odcinane. Mniejsza dostępność światła prowokuję krzewy zwiększyć produkcję chlorofilu, a teanina, odpowiadająca za smak umami, nie może ulec rozkładowi, a w skutku tego synteza katechin jest zmniejszona. W wyniku tego powstaje lepsza, mniej cierpka herbata.
 

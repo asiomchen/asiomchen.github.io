@@ -3,7 +3,7 @@ layout: post
 title:  "Genetyka herbaty: herbata bezkofeinowa"
 categories: [Genetyka herbaty]
 image: assets/images/2022-07-11/title.webp
-tags: featured
+tags: genetyka, kofeina
 ---
 
 Pomimo licznych prób naukowcy nie zastosowali jeszcze technik inżynierii genetycznej do stworzenia krzewu herbacianego nie zawierającego kofeinę. Naukowcy z Indii, Japonii, Chin i Stanów Zjednoczonych próbują zatrzymać produkcję kofeiny w herbacie, wprowadzając materiał genetyczny, który ma na celu wyciszenie szlaku syntezy kofeiny, stosując metody oparte na bakteriach, wywołujących choroby roślinne lub armatki genowe, dostarczające DNA do komórek.
