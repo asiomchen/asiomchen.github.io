@@ -40,16 +40,17 @@ Krzewy, które widzieliśmy na plantacji, należały do jednej z trzech kategori
 Cha Camelia skupia się na produkcji herbaty zielonej, którą uczyli się produkować między innymi od rodziny Japończyków. To były pierwsze krzewy na ich plantacji. Kiedy usłyszałam o krzewach z Japonii, od razu nasunęło mi się pytanie, który to kultywar - czy to może wszechobecna Yabukita? Niestety, nie chcieli odpowiedzieć na to pytanie, które jest dość popularne w czasach transparentności, twierdząc, że to tajemnica. Mogę tylko spekulować, co było przyczyną tego, ale być może to jest mniej ważne.
 
 <p align="center">
-  <img alt="Sadzonki herbaty z nasion w powietzu" src="/assets/images/2024/05/25/with_seeds.webp" width="700">
+  <img alt="" src="/assets/images/2024/05/25/with_seeds.webp" width="700">
 </p>
 
 Sadzonki z nasion, powstają na plantacji w coraz większych ilościach (chyba nawet można je zakupić). W warunkach domowych próbowałem kilka razy kiełkować herbatę, ale zawsze bez skutku, w Cha Camelia też mieli z tym problemy, przy tradycyjnym kiełkowaniu procent sukcesu był bardzo niski. Rozwiązanie okazało się być banalnie proste: orzeszki krzewu herbacianego naturalnie opadają na ziemię i część z nich kiełkują, a już późnij można mini-sadzonki przesadzić do doniczek, ten sposób zrobił się głównym źródłem nowych sadzonek na plantacji.
 
 <p align="center">
-  <img alt="Sadzonki herbaty z nasion w powietzu" src="/assets/images/2024/05/25/seedlings_air.webp" width="700">
+  <img alt="Sadzonki herbaty z nasion w powietzu" src="/assets/images/2024/05/25/seedling_air.webp" width="700">
   <br>
     <em><i>Sadzonki herbaty prosto z pod krzewu</i></em>
 </p>
+
 <p align="center">
   <img alt="Sadzonki herbaty z nasion" src="/assets/images/2024/05/25/seedlings.webp" width="700">
   <br>
